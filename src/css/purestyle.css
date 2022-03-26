@@ -45,6 +45,7 @@ The content `<div>` is where all your content goes.
     max-width: 800px;
     margin-bottom: 50px;
     line-height: 1.6em;
+    margin-left: 10px;
 }
 
 .header {
@@ -58,12 +59,14 @@ The content `<div>` is where all your content goes.
      width: 1024px;
      padding-left: 0;
      padding-right: 0;
-     
+
  }
     .header h1 {
         margin: 0 0;
-        font-size: 3em;
+        font-size: 2.5em;
         font-weight: 300;
+        text-align: left;
+        padding-left: 55px;
     }
      .header h2 {
         font-weight: 300;
