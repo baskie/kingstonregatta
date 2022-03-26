@@ -6,26 +6,26 @@ templateEngineOverride: njk,md
 <div class="centered">
 <h1>{{ title }}</h1>
 <h2>Two Great Days of Racing</h2>
-    <div class="compact stronger">
-    <p>Winners of all events will receive 1 pint lidded tankards, except Platinum Jubilee Sprint Eights, which will receive quart tankards</p>
-    <p>Clubs will compete for the title "<a href="victor-ludorum.htm">Victor Ludorum</a>"</p>
-    <p>The most successful club of each day will receive a 3-pint tankard</p>
+    <div class="stronger">
+    <p class="compact">Winners of all events will receive 1 pint lidded tankards, except Platinum Jubilee Sprint Eights, which will receive quart tankards</p>
+    <p class="compact">Clubs will compete for the title '<a href="victor-ludorum.htm">Victor Ludorum</a>'</p>
+    <p class="compact">The most successful club of each day will receive a 3-pint tankard</p>
     </div>
     <div class="centered"><h3 class="mediumBox">Entries and fees using <a href="https://broe2.britishrowing.org/">BROE2</a> only</h3></div>
     <p class="stronger">Entries must be received by 10am Monday 4th July 2022.</p>
     <h2>Kingston Amateur Regatta - Saturday 9 July 2022</h2>
-    <div class="compact"><p>Divisions 1 & 2 - 1000m downstream from stake boats, 3 abreast</p>
-    <p>Sprints - 350m from a free start, 2 abreast</p>
-    <p>No doubling in a division</p>
+    <div><p  class="compact">Divisions 1 & 2 - 1000m downstream from stake boats, 3 abreast</p>
+    <p  class="compact">Sprints - 350m from a free start, 2 abreast</p>
+    <p  class="compact">No doubling in a division</p>
     </div>
 <p>&nbsp;</p>
-<div class="compact stronger">
-<p>Separate Open and Women's events for J, J16 and Mas classes</p>
-<p>Senior racing in Event Bands</p>
-<p>Adaptive events are for AR3-PD</p>
-<p>Recreational rowing events are open to those not training for open BR competition</p>
-<p>The Recreational Novice 4x+ event is open to competitors who started rowing after 1st January 2021</p>
-<p>Mixed crews must include at least two women (excluding the cox)</p>
+<div class="stronger">
+<p class="compact">Separate Open and Women's events for J, J16 and Mas classes</p>
+<p class="compact">Senior racing in Event Bands</p>
+<p class="compact">Adaptive events are for AR3-PD</p>
+<p class="compact">Recreational rowing events are open to those not training for open BR competition</p>
+<p class="compact">The Recreational Novice 4x+ event is open to competitors who started rowing after 1st January 2021</p>
+<p class="compact">Mixed crews must include at least two women (excluding the cox)</p>
 </div>        
 </div>        
 

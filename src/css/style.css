@@ -1,13 +1,16 @@
-
 #header-background {
-    width: 1024px;
+   
     height:300px;
     background: url('/images/banner.jpg');
 }
 body {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 1.0em;
-    font-weight: 400;
+  font-weight: 400;
+  margin: 0;
+}
+html{
+-webkit-text-size-adjust: 100%;
 }
 
 h1 {
@@ -36,15 +39,19 @@ h5 {
   color: #353535;
 
 }
+p.compact { margin: 0 !important;
+font-weight:500; }
 
-p {
-    font-size: 1em;
-}
 .centered{
     text-align: center;
 }
  .compact{
-    line-height: 0.1;
+   line-height:1;
+       margin: 0 !important;
+       padding:0;
+}
+p.compact{
+  margin: 0 !important;
 }
 
 .stronger{

@@ -29,12 +29,12 @@ This is the parent `<div>` that contains the menu and the content area.
     padding-left: 0;
 }
     #layout.active #menu {
-        left: 150px;
-        width: 150px;
+        left: 200px;
+        width: 200px;
     }
 
     #layout.active .menu-link {
-        left: 150px;
+        left: 200px;
     }
 /*
 The content `<div>` is where all your content goes.
@@ -51,11 +51,17 @@ The content `<div>` is where all your content goes.
      margin: 0;
      color: #333;
      text-align: center;
-     padding: 2.5em 2em 0;
+     padding: 0 0 0;
      border-bottom: 1px solid #eee;
+     background-image: url('/images/banner.jpg');
+     height:300px;
+     width: 1024px;
+     padding-left: 0;
+     padding-right: 0;
+     
  }
     .header h1 {
-        margin: 0.2em 0;
+        margin: 0 0;
         font-size: 3em;
         font-weight: 300;
     }
@@ -80,8 +86,8 @@ appears on the left side of the page.
 */
 
 #menu {
-    margin-left: -150px; /* "#menu" width */
-    width: 150px;
+    margin-left: -200px; /* "#menu" width */
+    width: 200px;
     position: fixed;
     top: 0;
     left: 0;
@@ -216,21 +222,21 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 
     #layout {
-        padding-left: 150px; /* left col width "#menu" */
+        padding-left: 200px; /* left col width "#menu" */
         left: 0;
     }
     #menu {
-        left: 150px;
+        left: 200px;
     }
 
     .menu-link {
         position: fixed;
-        left: 150px;
+        left: 200px;
         display: none;
     }
 
     #layout.active .menu-link {
-        left: 150px;
+        left: 200px;
     }
 }
 
@@ -243,6 +249,6 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     */
     #layout.active {
         position: relative;
-        left: 150px;
+        left: 200px;
     }
 }
