@@ -1,12 +1,8 @@
 ---
 layout: article.njk
-title: Competitors - 2022 Events 1
+title: Spectators
 templateEngineOverride: njk,md
 ---
+<div class="centered">
 <h1>{{ title }}</h1>
-
-{% include "comp.njk" %}
-
-
-
-			
+</div>

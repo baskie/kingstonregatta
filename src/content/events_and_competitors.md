@@ -1,61 +1,57 @@
-			<h2>Two Great Days of Racing</h2>
-			<p><strong>Winners of all events will receive 1 pint lidded tankards, <br>
-			except Platinum Jubilee Sprint Eights, which will receive quart tankards</strong></p>
-	        <p><strong>Clubs will compete for the title "<a href="victor-ludorum.htm">Victor Ludorum</a>"<br>
-	        The most successful club of each day will receive a 3-pint tankard</strong></p>
-	        <hr width="75%">
-	      <p class="mediumBox" style="width: 350px;font-size: 1.5em;">Entries 
-			and fees using 
-			  <a href="https://broe2.britishrowing.org/">BROE2</a> only</p>
-	      <p><strong>Entries must be received by 10am Monday 
-			4th July 2022.</strong>
-	      </p>
-	      
-          <!-- 
-		  <p><strong>Events for the 2019 regatta are tabled below.</strong></p>
-		  <p><strong>New this year are Open and Women's adaptive single sculls events,<br>
-			for RSS-PD and RSS-LD combined, over 1000m.</strong></p>
-          -->
-	      <h2>Kingston Amateur Regatta - Saturday 9 July 2022</h2>
+---
+layout: article.njk
+title: Events and Competitors
+templateEngineOverride: njk,md
+---
+<div class="centered">
+<h1>{{ title }}</h1>
+<h2>Two Great Days of Racing</h2>
+    <div class="compact stronger">
+    <p>Winners of all events will receive 1 pint lidded tankards, except Platinum Jubilee Sprint Eights, which will receive quart tankards</p>
+    <p>Clubs will compete for the title "<a href="victor-ludorum.htm">Victor Ludorum</a>"</p>
+    <p>The most successful club of each day will receive a 3-pint tankard</p>
+    </div>
+    <div class="centered"><h3 class="mediumBox">Entries and fees using <a href="https://broe2.britishrowing.org/">BROE2</a> only</h3></div>
+    <p class="stronger">Entries must be received by 10am Monday 4th July 2022.</p>
+    <h2>Kingston Amateur Regatta - Saturday 9 July 2022</h2>
+    <div class="compact"><p>Divisions 1 & 2 - 1000m downstream from stake boats, 3 abreast</p>
+    <p>Sprints - 350m from a free start, 2 abreast</p>
+    <p>No doubling in a division</p>
+    </div>
+<p>&nbsp;</p>
+<div class="compact stronger">
+<p>Separate Open and Women's events for J, J16 and Mas classes</p>
+<p>Senior racing in Event Bands</p>
+<p>Adaptive events are for AR3-PD</p>
+<p>Recreational rowing events are open to those not training for open BR competition</p>
+<p>The Recreational Novice 4x+ event is open to competitors who started rowing after 1st January 2021</p>
+<p>Mixed crews must include at least two women (excluding the cox)</p>
+</div>        
+</div>        
 
-	      <p>Divisions 1 & 2 - 1000m downstream from stake boats, 3 abreast <br>
-	      Sprints - 350m from a free start, 2 abreast<br>
-			No doubling in a division<br></p>
-	   	  <p><strong>Separate Open and Women's <br>
-            events for J, J16 and Mas classes.<br>
-            Senior racing in Event Bands<br>
-            Adaptive events are for AR3-PD<br>
-            Recreational rowing events are open to those not training for open BR competition<br>
-            The Recreational Novice 4x+ event is open to competitors who started 
-			rowing after 1st January 2021<br>
-			Mixed crews must include at least two women (excluding the cox)<br>
-			*Regretfully, due to the large number of entries already received to Saturday's regatta, 
-			the junior singles and doubles events have now been cancelled</strong></p>
-          
-
-		<table class="8col" width="100%" cellspacing="0" cellpadding="6" border="0">
-			<tr>
-				<td width="11.1%">&nbsp;</td>
-				<td width="48%" colspan="4"><b>Division 1</b></td>
-				<td width="130" >&nbsp;</td>
-				<td width="38%" colspan="4" class=r><b>Division 2</b></td>
-			</tr>
-					<tr>
-				    <td width="30%"><b>Open</b></td>
-						<td width="7%">1x</td>
-						<td width="7%">2x</td>
-						<td width="7%">&nbsp;</td>
-						<td width="7%">8+</td>
-						<td width="14%" rowspan="14" class="b">
-						<a href="sprinteights.htm">Platinum<br>
-						Jubilee<br>
-						Sprint<br>
-						Eights</a></td>
-						<td width="7%">&nbsp;</td>
-						<td width="7%">4+</td>
-						<td width="7%">4-</td>
-						<td width="7%" class=r>4x-</td>
-					</tr>
+<table class="bluegrid" width="100%" cellspacing="0" cellpadding="6">
+	<tr>
+		<td width="11.1%">&nbsp;</td>
+		<td width="48%" colspan="4"><b>Division 1</b></td>
+		<td width="130" >&nbsp;</td>
+		<td width="38%" colspan="4" class=r><b>Division 2</b></td>
+	</tr>
+	<tr>
+	    <td width="30%"><b>Open</b></td>
+		<td width="7%">1x</td>
+		<td width="7%">2x</td>
+		<td width="7%">&nbsp;</td>
+    	<td width="7%">8+</td>
+		<td width="14%" rowspan="14" >
+		<a href="sprinteights.htm">Platinum<br>
+		Jubilee<br>
+		Sprint<br>
+		Eights</a></td>
+		<td width="7%">&nbsp;</td>
+		<td width="7%">4+</td>
+		<td width="7%">4-</td>
+	    <td width="7%" class=r>4x-</td>
+		</tr>
 					<tr>
 						<td><b>Women</b></td>
 						<td>&nbsp;</td>
@@ -73,14 +69,14 @@
 						<td>&nbsp;</td>
 						<td>4-</td>
 						<td>&nbsp;</td>
-						<td>1x*</td>
+						<td>1x</td>
 						<td>&nbsp;</td>
 						<td>4x-</td>
 						<td class=r>&nbsp;</td>
 					</tr>
 					<tr>
 						<td><b>WJ18</b></td>
-						<td>1x*</td>
+						<td>1x</td>
 						<td>&nbsp;</td>
 						<td>4x-</td>
 						<td>&nbsp;</td>
@@ -91,22 +87,22 @@
 					</tr>
 					<tr>
 						<td><b>J16</b></td>
-						<td>1x*</td>
+						<td>1x</td>
 						<td>&nbsp;</td>
 						<td>4x-</td>
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
-						<td>2x*</td>
+						<td>2x</td>
 						<td>&nbsp;</td>
 						<td class=r>&nbsp;</td>
 					</tr>
 					<tr>
 						<td><b>WJ16</b></td>
 						<td>&nbsp;</td>
-						<td>2x*</td>
+						<td>2x</td>
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
-						<td>1x*</td>
+						<td>1x</td>
 						<td>&nbsp;</td>
 						<td>4x-</td>
 						<td class=r>&nbsp;</td>
@@ -114,10 +110,10 @@
 					<tr>
 						<td><b>Open J15</b></td>
 						<td>&nbsp;</td>
-						<td>2x*</td>
+						<td>2x</td>
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
-						<td>1x*</td>
+						<td>1x</td>
 						<td>&nbsp;</td>
 						<td>4x+</td>
 						<td class=r>&nbsp;</td>
@@ -153,7 +149,7 @@
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
 						<td>4x-</td>
-						<td class="r">&nbsp;</td>
+						<td>&nbsp;</td>
 					</tr>
 					<tr>
 						<td><b>Mx Rec Novice</b></td>
@@ -164,7 +160,7 @@
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
-						<td class="r">&nbsp;</td>
+						<td >&nbsp;</td>
 					</tr>
 					<tr>
 						<td><b>Mx Rec Experienced</b></td>
@@ -175,7 +171,7 @@
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
 						<td>4x+</td>
-						<td class="r">&nbsp;</td>
+						<td >&nbsp;</td>
 					</tr>
 					<tr>
 						<td><b>Adapt</b></td>
@@ -186,7 +182,7 @@
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
 						<td>&nbsp;</td>
-						<td class="r">&nbsp;</td>
+						<td >&nbsp;</td>
 					</tr>
 					<tr>
 						<td class=b><b>W Adapt</b></td>
@@ -203,17 +199,11 @@
 				<p>&nbsp;</p>
 				<!--<br><strong>View the draw for the Jubilee Sprints <a href="docs/PlatinumJubileeSprintEights - Draw.pdf">here</a> </strong>-->
 				<h2>Kingston Borough Regatta - Sunday 10 July 2022</h2>
-
-	      <p>500m racing downstream from a free start<br>
-			No doubling in a division</p>
-	      All J15 events and J14 4x+ & 8x+ 3 abreast<br>
-	      All other events 2 abreast<p>Note: J13 and WJ13 4x+ and 8x+ events 
-			have swapped divisions since the regatta flyer was published. <br>
-			Events will be run as displayed below and detailed on <a href="https://broe2.britishrowing.org/">
-				BROE2</a></p>
-			</p>
-	      <p><strong>Open and Women, J15 Women only</strong></p>
-				<table class="9col" width="100%" cellspacing="0" cellpadding="6" border="0">
+	      <p>500m racing downstream from a free start<br>No doubling in a division</p>
+	      <p>All J15 events and J14 4x+ & 8x+ 3 abreast<br>All other events 2 abreast</p>
+          <p>Note: J13 and WJ13 4x+ and 8x+ events have swapped divisions since the regatta flyer was published. <br>Events will be run as displayed below and detailed on <a href="https://broe2.britishrowing.org/">BROE2</a></p>
+          <p><strong>Open and Women, J15 Women only</strong></p>
+          <table class="bluegrid" width="100%" cellspacing="0" cellpadding="6">
 					<tr>
 						<td>&nbsp;</td>
 						<td colspan="4"><b>Division 1</b></td>
@@ -297,7 +287,6 @@
 						<td class="r b">&nbsp;</td>
 					</tr>
 					</table>
-
 		      <ul style="margin-left: 1.4em;">
 		      <li>Entry fee, &pound;17.50 per rowing seat, except <a href="sprinteights.htm">Platinum Jubilee Sprint Eights</a>.</li>
 		      <li>Entries will be accepted, providing there are a sufficient crews entered and sufficient time in the racing programme. </li>
@@ -319,5 +308,4 @@
 		        <li><strong>TELEPHONE CONFIRMATIONS</strong> may be made on +44 (0) 7952 586 784</li>
 		        <li>In the unlikely event of late regatta cancellation, one entry fee per competitor will be retained to cover costs.</li>
 		      </ul>
-	      </div>
-        <p><strong>Entries must be completed by 10am Monday 4th July 2022.</strong></p>
+	         <p><strong>Entries must be completed by 10am Monday 4th July 2022.</strong></p>

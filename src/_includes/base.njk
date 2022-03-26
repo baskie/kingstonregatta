@@ -4,20 +4,28 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}</title>
-  <link rel="stylesheet" href="/css/style.css">
+ <link rel="stylesheet" href="/css/style.css">
+ <!--<link rel="stylesheet" href="/css/pure-min.css">-->
+    <link rel="stylesheet" href="/css/purestyle.css">
 </head>
 <body>
-  <header>
-    <h1>{{ pageTitle }}</h1>
-  </header>
-  <menu>
-  <ul>
-  <li><a href="/">Home</a></li>
-</ul>
+
+<div id="layout">
+  <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon -->
+        <span></span>
+    </a>
+
      {% include "navmenu.njk" %}
-  </menu>
-  <main>
+  
+  <div id="main">
+    <div class="content">
      {{ content | safe }}
-  </main>
+     </div>
+  </div>
+</div>
+
+<script src="/scripts/ui.js"></script>
 </body>
 </html>
