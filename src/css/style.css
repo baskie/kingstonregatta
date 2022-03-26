@@ -1,27 +1,19 @@
-#header-background {
-   
-    height:300px;
-    background: url('/images/banner.jpg');
-}
 body {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 1.0em;
   font-weight: 400;
   margin: 0;
 }
-html{
--webkit-text-size-adjust: 100%;
-}
 
 h1 {
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 400;
-  font-size: 4.0em;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-size: 3.0em;
   color: #353535;
 }  
 h2 {
-    font-weight: 500;
-    font-size: 1.8em;  
+  font-weight: 500;
+  font-size: 1.8em;  
 	color: #353535;
 
 }  
@@ -47,8 +39,8 @@ font-weight:500; }
 }
  .compact{
    line-height:1;
-       margin: 0 !important;
-       padding:0;
+   margin: 0 !important;
+   padding:0;
 }
 p.compact{
   margin: 0 !important;
