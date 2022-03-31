@@ -48,15 +48,20 @@ The content `<div>` is where all your content goes.
     margin-left: 10px;
 }
 
-.header {
+
+#head .banner{
+    background: url('/images/banner.jpg') no-repeat;
+    background-size: 1024px auto;
+    height:300px;
+ }
+
+ .header {
      margin: 0;
      color: #333;
      text-align: center;
      padding: 0 0 0;
      border-bottom: 1px solid #eee;
-     background-image: url('/images/banner.jpg');
-     height:300px;
-     width: 1024px;
+     
      padding-left: 0;
      padding-right: 0;
 
@@ -210,6 +215,7 @@ small screens.
             margin-top: 0.6em;
         }
 
+          
 
 /* -- Responsive Styles (Media Queries) ------------------------------------- */
 
@@ -223,6 +229,8 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         padding-left: 2em;
         padding-right: 2em;
     }
+
+  
 
     #layout {
         padding-left: 200px; /* left col width "#menu" */
@@ -243,6 +251,8 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 }
 
+
+
 @media (max-width: 48em) {
     /* Only apply this when the window is small. Otherwise, the following
     case results in extra padding on the left:
@@ -254,4 +264,15 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         position: relative;
         left: 200px;
     }
+
+    #head .banner{
+        background-size: 560px auto;
+     
+     }
+
+     .header {
+        height: 163px;
+     }
+    
+  
 }
