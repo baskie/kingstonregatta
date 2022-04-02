@@ -1,17 +1,18 @@
 ---
 layout: article.njk
 title: Events and Competitors
+pageTitle: Events and Competitors
 templateEngineOverride: njk,md
 ---
 <div class="centered">
-<h1>{{ title }}</h1>
+
 <h2>Two Great Days of Racing</h2>
     <div class="stronger">
     <p class="compact">Winners of all events will receive 1 pint lidded tankards, except Platinum Jubilee Sprint Eights, which will receive quart tankards</p>
     <p class="compact">Clubs will compete for the title '<a href="victor-ludorum.htm">Victor Ludorum</a>'</p>
     <p class="compact">The most successful club of each day will receive a 3-pint tankard</p>
     </div>
-    <div class="centered"><h3 class="mediumBox">Entries and fees using <a href="https://broe2.britishrowing.org/">BROE2</a> only</h3></div>
+    <div class="mediumBox"><h2  style="display:inline" >Entries and fees using <a href="https://broe2.britishrowing.org/">BROE2</a> only</h2></div>
     <p class="stronger">Entries must be received by 10am Monday 4th July 2022.</p>
     <h2>Kingston Amateur Regatta - Saturday 9 July 2022</h2>
     <div><p  class="compact">Divisions 1 & 2 - 1000m downstream from stake boats, 3 abreast</p>
