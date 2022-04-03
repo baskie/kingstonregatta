@@ -35,7 +35,7 @@ p.compact { margin: 0 !important;
 font-weight:500; }
 
 a {
-  color: #000080;
+  color: #9b2321;
 }
 
 .centered{
@@ -61,25 +61,43 @@ p.compact{
     
     border: 4px;
     border-style: solid;
-    border-color: #000080;
+    border-color: #9b2321;
     border-radius: 4px;
     padding: 2px;
 }
 
+.krcbox {
+ 
+  border-style:solid; 
+  border-color: #9b2321; 
+  border-radius: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  min-height: 140px;
+}
+
+
+
+.karcrest{
+    float: left;
+    padding-right:20px;
+
+}
+
 table.bluegrid {
     font-family: Arial, Helvetica, sans-serif;
-    border: 2px solid #000080;
+    border: 2px solid #9b2321;
     height: 200px;
     text-align: center;
     border-collapse: collapse;
   }
   table.bluegrid td, table.bluegrid th {
-    border: 1px solid #000080;
+    border: 1px solid #9b2321;
     padding: 4px 4px;
   }
   table.bluegrid tbody td {
     font-size: 11pt;
-    color: #000080;
+    color: #9b2321;
   }
   table.bluegrid tfoot td {
     font-size: 14px;
