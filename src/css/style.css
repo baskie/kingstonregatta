@@ -8,7 +8,7 @@ body {
 h1 {
   font-family: 'Times New Roman', Times, serif;
   font-weight: 400;
-  font-size: 2.5em;
+  font-size: 4.5em;
   color: #353535;
 }  
 h2 {
@@ -82,6 +82,35 @@ p.compact{
     float: left;
     padding-right:20px;
 
+}
+
+.foodmenu{
+  min-height:150px;
+  max-width:550px;
+}
+
+.foodmenu img{
+  width: 150px;
+  height: 145px;
+  float: right;
+}
+
+.foodmenu ul{
+  text-align: left;
+}
+
+.sponsors{
+  min-height:120px;
+  max-width:450px;
+}
+
+.sponsors img{
+  float: right;
+}
+
+.smallTitle {
+  font-size:1.1em;
+  font-weight:700;
 }
 
 table.bluegrid {

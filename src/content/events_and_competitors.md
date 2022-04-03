@@ -1,7 +1,7 @@
 ---
 layout: article.njk
-title: Events and Competitors
-pageTitle: Events and Competitors
+title: Events & Competitors
+pageTitle: Events & Competitors
 templateEngineOverride: njk,md
 ---
 <div class="centered">

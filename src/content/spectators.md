@@ -6,5 +6,21 @@ pageTitle: Spectators
 templateEngineOverride: njk,md
 ---
 <div class="centered">
-
+		  <div id="main" class="left">
+	      <strong>Spectators : </strong><a href="forms/SubscribersForm.pdf">Subscriber&rsquo;s Application Form</a>  : <a href="lunch.htm">Lunches &amp; Hospitality</a></p>
+ 	      <!--<h2>Everyone Welcome in the Enclosure</h2>-->
+	      <h2>Regatta Enclosure</h2>
+	      <p>Entry £2 per person, which can be paid on the day</p>
+	      <p>See the finishes from close up and enjoy the food and refreshments</p>
+	      <p>Crew tents and gazebos are welcomed within the enclosure, <br>
+			 providing groups of no more than 30 people are gathered </p>
+	      <p>Details of the location of the regatta enclosures are given on the <a href="access.htm">trailer access map</a></p>
+	      <p><a href="lunch.htm">Enjoy the Lunches and Refreshments</a></p>
+	      <h4>Membership</h4>
+	      <p style="margin-bottom:2em"><a href="forms/SubscribersForm.pdf">Become a Subscriber</a><br>
+	      <strong>Members of the regatta receive:</strong>
+	      Free entry to the enclosure and car parking<br>
+          Three newsletters per annum<br></p>
+		  <p style="margin-top:1.4em"><strong>For more details</strong> about the regatta, membership, sponsorship or advertising
+	      <a href="contacts.htm">click here</a></strong></p>
 </div>
