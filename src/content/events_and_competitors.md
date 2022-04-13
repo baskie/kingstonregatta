@@ -1,9 +1,11 @@
 ---
 layout: article.njk
-title: Events & Competitors
-pageTitle: Events & Competitors
+pageTitle: Competitors - 2022 Events
+articleTitle: Events & Competitors
 templateEngineOverride: njk,md
 ---
+
+<div id="nav" style="display:none">2</div>
 <div class="centered">
 
 <h2>Two Great Days of Racing</h2>

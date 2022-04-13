@@ -4,6 +4,8 @@ title: Kingston Regatta 2022
 pageTitle: Kingston Regatta 2022
 templateEngineOverride: njk,md
 ---
+<div id="nav" style="display:none">1</div>
+
 <div style="margin-left: 10px; text-align: left;">
 <!--<img class="karcrest" src="/images/logos/CNMEstatesKARLogo2009.gif" alt="KAR Crest">-->
 <img class="karcrest" src="/images/logos/karcrest.png" alt="KAR Crest">

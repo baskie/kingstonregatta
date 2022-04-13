@@ -6,6 +6,7 @@
         return {
             layout: document.getElementById('layout'),
             menu: document.getElementById('menu'),
+            button: document.getElementById('button'),
             menuLink: document.getElementById('menuLink')
         };
     }
@@ -37,18 +38,25 @@
         toggleClass(elements.menu, active);
         toggleClass(elements.menuLink, active);
     }
-    
+
+     
     function handleEvent(e) {
         var elements = getElements();
-        
-        if (e.target.id === elements.menuLink.id) {
+     
+        if (e.target.id !== elements.button.id){
+            if (e.target.id === elements.menuLink.id) {
+            //    alert(e.target.id);
+                toggleAll();
+                e.preventDefault();
+            } else if (elements.menu.className.indexOf('active') !== -1) {
             toggleAll();
-            e.preventDefault();
-        } else if (elements.menu.className.indexOf('active') !== -1) {
-            toggleAll();
+            }
         }
     }
     
     document.addEventListener('click', handleEvent);
+
+
+
 
 }(this, this.document));
