@@ -5,14 +5,15 @@ pageTitle: Kingston Regatta 2022
 templateEngineOverride: njk,md
 ---
 <div id="nav" style="display:none">1</div>
-
 <div style="margin-left: 10px; text-align: left;">
 <!--<img class="karcrest" src="/images/logos/CNMEstatesKARLogo2009.gif" alt="KAR Crest">-->
-<img class="karcrest" src="/images/logos/karcrest.png" alt="KAR Crest">
+<img width="150" class="karcrest" src="/images/logos/karcrest.png" alt="KAR Crest" style="float:right;">
 
 <p> Kingston Regatta has been contested on the river at Kingston upon Thames since 1857 and the Committee and Sponsors are pleased to continue this superb tradition</p>
+<div style="position:relative;">
 <h2>9 &amp; 10 July 2022</h2>
 <h2>320 races from 8.30 am to 6.30 pm each day</h2>
+</div>
 <h3><a href="results.htm">Results from previous years</a></h3>		
 <div class="krcbox" >
   <p>Kingston Regatta has long been run from Kingston Rowing Club.</p>

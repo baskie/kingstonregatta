@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 pageTitle: Competitors - 2022 Events
-articleTitle: Events & Competitors
+articleTitle:
 templateEngineOverride: njk,md
 ---
 
