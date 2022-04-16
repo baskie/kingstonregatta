@@ -193,4 +193,15 @@ table.bluegrid {
     
   }
 
+  #regulations li{
+    margin-top: 1em;
+  }
     
+
+table#sirens{
+  width:500px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#sirens tr td {vertical-align: top; line-height: 1.3em; padding:7px;}
