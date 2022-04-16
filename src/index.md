@@ -17,7 +17,7 @@ templateEngineOverride: njk,md
 <h3><a href="results.htm">Results from previous years</a></h3>		
 <div class="krcbox" >
   <p>Kingston Regatta has long been run from Kingston Rowing Club.</p>
-  <a href="https://www.kingstonrc.co.uk"><img src="images/logos/KRC_Shield_Red_m.png" style="float:left; padding-right:10px;width:90px;"></a>
+  <a href="https://www.kingstonrc.co.uk"><img src="images/logos/KRC_Shield_Red_m.png" alt="KRC Logo" style="float:left; padding-right:10px;width:90px;"></a>
   <p>For information on rowing in Kingston, Kingston Eights Head and Kingston Small Boats Head visit the <a href="https://www.kingstonrc.co.uk">Kingston Rowing Club website</a>.</p>
 </div>
 </div>

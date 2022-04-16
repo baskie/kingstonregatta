@@ -7,7 +7,7 @@ templateEngineOverride: njk,md
 <div id="nav" style="display:none">1</div>
 <div class="foodmenu">
 <img src="/images/Mr%20Pigstuff.jpg">
-	<h2>Mr Pigstuff</h2>
+	<h3>Mr Pigstuff</h3>
 	<ul>
         <li>Bacon/egg rolls.</li>
 		<li>Mac 'n cheese topped with pork, fried onions + nachos</li>
@@ -17,7 +17,7 @@ templateEngineOverride: njk,md
 
 <div class="foodmenu">
     <img src="/images/Soffrito.jpg">
-	<h2>Soffritto</h2>
+	<h3>Soffritto</h3>
     <ul>
         <li>A selection of 7 or 8 different pasta dishes</li>
 		<li>Foccacia</li>
@@ -26,7 +26,7 @@ templateEngineOverride: njk,md
 
 <div class="foodmenu">
     <img src="/images/Mexican.jpg">
-    <h2>Margo + Rita</h2>
+    <h3>Margo + Rita</h3>
 	<ul>
         <li>Burritos (meat/veg/vegan)</li>
 		<li>Rice box</li>
@@ -37,12 +37,12 @@ templateEngineOverride: njk,md
 
 <div class="foodmenu">
 	<img src="/images/Celebrations.jpg">
-	<h2>Celebrations</h2>
+	<h3>Celebrations</h3>
     <ul>
         <li>Ice cream</li>
     </ul>
 </div>
-        <h2>Drinks</h2>
+        <h3>Drinks</h3>
 <!--    <p>Licensed bar, with real ale, wine, tea, coffee and soft drinks</p>-->
         <p>Licensed bar, tea, coffee and soft drinks</p>
         <hr style="margin-top:30px;">

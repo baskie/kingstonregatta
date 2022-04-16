@@ -18,7 +18,7 @@ h2 {
 
 }  
 h3 {
-  font-size: 1.6em;
+  font-size: 1.5em;
   font-weight: 500;
 	color: #353535;
 }  
@@ -130,6 +130,19 @@ table.bluegrid {
   }
   table.bluegrid tfoot td {
     font-size: 14px;
+  }
+
+  .dropdown-btn {
+    padding-left: 0;
+    text-decoration: none;
+    font-size: 1.0em;
+    color: #eee;
+    background: none;
+    border:none;
+    width:100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
   }
 
 
