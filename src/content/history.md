@@ -27,7 +27,7 @@ Kingston Regatta - 1911</div>
         the sporting and social calendar and would have regular reports in the
         national and sports press.</p>
       <div class="imgLeft"><img src="/history/Thames4withJackBeresford1919.jpg" alt="Thames RC beating Kingston in the final 1919" width="250" height="63" /><br />
-Thames RC beating Kingston in the final  1919</div>
+Thames RC beating Kingston<br/> in the final  1919</div>
       <p>However, Kingston RC did not always have its own way as Thames RC demonstrated
         (looking towards Raven&rsquo;s Ait from the end of Queen&rsquo;s Promenade)
         by beating Kingston in the final of the same event in 1919. At bow of
@@ -121,7 +121,7 @@ Dick Offer 2007</div>
         RC Members, responsible for running the Kingston Amateur Regatta and
       wish them a successful 150th anniversary.&rdquo;</p>
       <p><a href="#top">Back to top ^^ </a></p>
-      <div class="imgLeft"><img src="/history/JTannTimCrooksGrandfather.jpg" alt="" /><br />
+      <div class="imgLeft"><img src="/history/JTannTimCrooksGrandfather.jpg" alt="J Tann Tim Crooks Grandfather" /><br />
 J Tann, Tim Crooks Grandfather</div>
       <p>Going back for a moment
         to the crew of the Thames RC 4 of 1919 we find another regular competitor
@@ -137,8 +137,8 @@ J Tann, Tim Crooks Grandfather</div>
         set off for an outing. It can be cold, windy and rough, or maybe lovely
         sun, but it's a challenge to lift yourself to perform to your best for
         the conditions. You can be stiff, up-tight and tired but you&rsquo;re
-        getting warmed up and the healing process has begun. <div class="imgRight"><img src="/history/TimCrooksDiamondScullsHenley1969.jpg" alt="" /><br />
-Tim Crooks in the Diamond Sculls at Henley  1969</div>
+        getting warmed up and the healing process has begun. <div class="imgRight"><img src="/history/TimCrooksDiamondScullsHenley1969.jpg" alt="Tim Crooks Diamond Sculls Henley 1969" /><br />
+Tim Crooks in the Diamond Sculls<br/> at Henley  1969</div>
         <p>You&rsquo;re working
           to make the boat travel as far as possible between strokes. There's
           a magic moment when the stroke is released and the boat flies away
@@ -156,7 +156,7 @@ Tim Crooks in the Diamond Sculls at Henley  1969</div>
         but either way, you did it, you feel better for it, so worth the effort.
       You always have to keep going &ndash; a bit like the Regatta.&rdquo;</p>
       <div class="imgLeft"><img src="/history/1920sRavensAit1921.jpg" alt="Cox P S Martin of Thames RC, seen left, being carried to his boat for the final of the Coronation Challenge Cup in 1921" /><br />
-      Cox P S Martin of Thames RC</div>
+      Cox P S Martin<br/> of Thames RC</div>
       <p>As
         Tim so aptly describes, rowers have qualities of immense determination
         and no-one demonstrates these better than the disabled Cox P S Martin
@@ -213,7 +213,7 @@ Tim Crooks in the Diamond Sculls at Henley  1969</div>
       miss this day for the world.&rdquo;</p>
       <p><a href="#top">Back to top ^^ </a></p>
       <div class="imgRight"><img src="/history/VampStrokingKRC JS8KAR1969.jpg" alt="" width="250" height="124" /><br />
-      Vamp stroking KRC in JS8 at KAR 1969</div>
+      Vamp stroking KRC in JS8 at<br/> KAR 1969</div>
       <p>But the river is not just for rowers,
         but is for all to enjoy, from fishermen, sailors, to pleasure craft users
         and as Ratty so eloquently put it to Mole &ldquo;There is nothing&mdash;absolutely
@@ -246,7 +246,7 @@ Tim Crooks in the Diamond Sculls at Henley  1969</div>
         Kingston Regatta for bringing the river to life to so many people over
       the years.&rdquo;</p>
   <div class="imgLeft"><img src="/history/KieranWestAtSydney.jpg" alt="" width="150" height="201" /><br />
-      Kieran West at Sydney 2000 </div>
+      Kieran West at <br/> Sydney 2000 </div>
       <p>The Regatta moved to its current site opposite the
         town centre in 1991 and to bring us almost up to date we can&rsquo;t
         let this opportunity go past without celebrating our other local Olympians.
