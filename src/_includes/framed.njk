@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+ <link rel="stylesheet" href="/css/style.css">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ <!--<link rel="stylesheet" href="/css/pure-min.css">-->
+    <link rel="stylesheet" href="/css/purestyle.css">
+</head>
+<body>
+
+<div id="layout">
+  <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon -->
+        <span></span>
+    </a>
+
+     {% include "navmenu.njk" %}
+  
+  <div id="main">
+
+  <div id=head class="header" style="padding-left: 0px; padding-right: 0px; " >
+
+    <div class="banner" id="welcomeimg" >
+     <h1 style="color:#fff">{{ pageTitle }}</h1>
+  </div>
+  </div>     {{ content | safe }}
+  </div>
+</div>
+
+<script src="/scripts/ui.js"></script>
+</body>
+</html>

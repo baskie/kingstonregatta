@@ -74,6 +74,7 @@ p.compact{
   padding-left: 10px;
   padding-right: 10px;
   min-height: 140px;
+  margin-right: 60px;
 }
 
 
@@ -205,3 +206,20 @@ table#sirens{
 }
 
 #sirens tr td {vertical-align: top; line-height: 1.3em; padding:7px;}
+
+.contacts p{
+    margin-bottom: 5px;
+    margin-top: 5px;
+
+    
+  }
+
+  .contacts h5{
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
+
+  .contacts h5{
+    font-size: 1.1em;
+    
+  }

@@ -14,7 +14,7 @@ templateEngineOverride: njk,md
 <h2>9 &amp; 10 July 2022</h2>
 <h2>320 races from 8.30 am to 6.30 pm each day</h2>
 </div>
-<h3><a href="results.htm">Results from previous years</a></h3>		
+<h3><a href="/results">Results from previous years</a></h3>		
 <div class="krcbox" >
   <p>Kingston Regatta has long been run from Kingston Rowing Club.</p>
   <a href="https://www.kingstonrc.co.uk"><img src="images/logos/KRC_Shield_Red_m.png" alt="KRC Logo" style="float:left; padding-right:10px;width:90px;"></a>
