@@ -5,6 +5,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/scripts");
   eleventyConfig.addPassthroughCopy("./src/history");
   eleventyConfig.addPassthroughCopy("./src/pdfs");
+  eleventyConfig.addPassthroughCopy("./src/docs");
   eleventyConfig.addPassthroughCopy("./src/email-form.php");
     return {
       dir: {

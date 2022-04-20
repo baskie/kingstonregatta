@@ -18,7 +18,7 @@ templateEngineOverride: njk,md
 <!--
 		<br><strong>View the draw for the 2021 Diamond Jubilee Sprint Eights <a href="docs/DiamondJubileeSprintEights - Draw 2021.pdf">here</a> </strong>
 		-->
-<p><strong>View the results for the 2021 Diamond Jubilee Sprint Eights <a href="docs/DiamondJubileeSprintEights - Results 2021.pdf">here</a> </strong></p>
+<p><strong>View the results for the 2021 Diamond Jubilee Sprint Eights <a href="/docs/DiamondJubileeSprintEights - Results 2021.pdf">here</a> </strong></p>
 		<h3>Regulations</h3>
         <ul>
           <li>350 metres, two abreast</li>

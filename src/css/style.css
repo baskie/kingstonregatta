@@ -133,6 +133,10 @@ table.bluegrid {
     font-size: 14px;
   }
 
+  table.textleft td{
+    text-align: left;
+  }
+
   .dropdown-btn {
     padding-left: 0;
     text-decoration: none;

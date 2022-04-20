@@ -11,10 +11,10 @@ templateEngineOverride: njk,md
 <h2>Two Great Days of Racing</h2>
     <div class="stronger">
     <p class="compact">Winners of all events will receive 1 pint lidded tankards, except Platinum Jubilee Sprint Eights, which will receive quart tankards</p>
-    <p class="compact">Clubs will compete for the title '<a href="victor-ludorum.htm">Victor Ludorum</a>'</p>
+    <p class="compact">Clubs will compete for the title '<a href="/victor-ludorum/">Victor Ludorum</a>'</p>
     <p class="compact">The most successful club of each day will receive a 3-pint tankard</p>
     </div>
-    <div class="mediumBox"><h2  style="display:inline" >Entries and fees using <a href="https://broe2.britishrowing.org/">BROE2</a> only</h2></div>
+    <div class="mediumBox"><h2  style="display:inline" >Entries and fees using <a href="https://broe2.britishrowing.org/" target="new">BROE2</a> only</h2></div>
     <p class="stronger">Entries must be received by 10am Monday 4th July 2022.</p>
     <h2>Kingston Amateur Regatta - Saturday 9 July 2022</h2>
     <div><p  class="compact">Divisions 1 & 2 - 1000m downstream from stake boats, 3 abreast</p>
@@ -204,7 +204,7 @@ templateEngineOverride: njk,md
 				<h2>Kingston Borough Regatta - Sunday 10 July 2022</h2>
 	      <p>500m racing downstream from a free start<br>No doubling in a division</p>
 	      <p>All J15 events and J14 4x+ & 8x+ 3 abreast<br>All other events 2 abreast</p>
-          <p>Note: J13 and WJ13 4x+ and 8x+ events have swapped divisions since the regatta flyer was published. <br>Events will be run as displayed below and detailed on <a href="https://broe2.britishrowing.org/">BROE2</a></p>
+          <p>Note: J13 and WJ13 4x+ and 8x+ events have swapped divisions since the regatta flyer was published. <br>Events will be run as displayed below and detailed on <a href="https://broe2.britishrowing.org/" target="new">BROE2</a></p>
           <p><strong>Open and Women, J15 Women only</strong></p>
           <table class="bluegrid" width="100%" cellspacing="0" cellpadding="6">
 					<tr>
@@ -291,13 +291,13 @@ templateEngineOverride: njk,md
 					</tr>
 					</table>
 		      <ul style="margin-left: 1.4em;">
-		      <li>Entry fee, &pound;17.50 per rowing seat, except <a href="sprinteights.htm">Platinum Jubilee Sprint Eights</a>.</li>
+		      <li>Entry fee, &pound;17.50 per rowing seat, except <a href="/sprint-eights/">Platinum Jubilee Sprint Eights</a>.</li>
 		      <li>Entries will be accepted, providing there are a sufficient crews entered and sufficient time in the racing programme. </li>
-		      <li>If an event is over-subscribed, crews that have been entered will be put into the next appropriate status or age-group, unless a comment has been made with the entry in <a href="https://broe2.britishrowing.org/">BROE2</a>.</li>
+		      <li>If an event is over-subscribed, crews that have been entered will be put into the next appropriate status or age-group, unless a comment has been made with the entry in <a href="https://broe2.britishrowing.org/" target="new">BROE2</a>.</li>
                 <li>Priority will be given to complete entries with full payment.</li>
 		        <li><span class="smallTitle">BROE2 Entry</span>
 		          <ul>
-		            <li>Indicate in <a href="https://broe2.britishrowing.org/">
+		            <li>Indicate in <a href="https://broe2.britishrowing.org/" target="new">
 					BROE2</a>, if you do NOT wish to be raised to a higher status.</li>
 		            <li>Any other requests should go in the Comments field. <br></li>
 		          </ul>
@@ -305,7 +305,7 @@ templateEngineOverride: njk,md
 		        <li><span class="smallTitle">Payment</span>
 		          <ul>
 		            <li>Entry fees as above. There are no charges for coxswains.</li> 
-		            <li>All entry fees must be paid using <a href="https://broe2.britishrowing.org/">
+		            <li>All entry fees must be paid using <a href="https://broe2.britishrowing.org/" target="new">
 					BROE2</a></li>
 		        <li><a href="javascript:popUp('email-form.php?contact=1')">ENTRIES SECRETARY</a>: +44 (0) 7952 586 784<br></li>
 		        <li><strong>TELEPHONE CONFIRMATIONS</strong> may be made on +44 (0) 7952 586 784</li>

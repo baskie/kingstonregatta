@@ -1,7 +1,8 @@
 ---
 layout: article.njk
 title: History
-pageTitle: River Stories and Some History of Kingston Amateur Regatta 1857 - 2007
+pageTitle: River Stories & Regatta History
+articleTitle: River Stories and Some History of Kingston Amateur Regatta 1857 - 2007
 
 templateEngineOverride: njk,md
 ---

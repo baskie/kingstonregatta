@@ -79,4 +79,4 @@ templateEngineOverride: njk,md
 <!--
 			  <div class="right" style="text-align:justify;width:630px"><a href="https://www.britishrowing.org/sites/default/files/pages/22685/SPCG%20Policy%20Feb%202013.pdf"</a>Safeguarding and Protecting Children Policy<br></div>
 -->
-<div class="right" style="text-align:justify;width:630px"><a href="https://www.britishrowing.org/wp-content/uploads/2020/03/Safeguarding-Protecting-Children-Policy-March-2020.pdf">Safeguarding and Protecting Children Policy</a></div>
+<div class="right" style="text-align:justify;width:630px"><a href="https://www.britishrowing.org/wp-content/uploads/2020/03/Safeguarding-Protecting-Children-Policy-March-2020.pdf" target="new">Safeguarding and Protecting Children Policy</a></div>
