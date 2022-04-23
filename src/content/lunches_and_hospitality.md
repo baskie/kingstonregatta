@@ -53,7 +53,7 @@ templateEngineOverride: njk,md
    <li>Newsletter</li>
 </ul>
 
-<p>Download and complete the <a href="/forms/SubscribersForm.pdf">subscription application</a><br>or
+<p>Download and complete the <a href="/pdfs/SubscribersForm.pdf">subscription application</a><br>or
 	        contact Chris on +44 (0) 208 287 6514<br>or <a href="javascript:popUp('email-form.php?contact=3')">email
 	        here</a>.</p>
 </div>
