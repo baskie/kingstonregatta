@@ -46,7 +46,7 @@ templateEngineOverride: njk,md
 		<td width="7%">&nbsp;</td>
     	<td width="7%">8+</td>
 		<td width="14%" rowspan="14" >
-		<a href="sprinteights.htm">Platinum<br>
+		<a href="/sprint-eights/">Platinum<br>
 		Jubilee<br>
 		Sprint<br>
 		Eights</a></td>
