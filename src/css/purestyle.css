@@ -62,7 +62,7 @@ The content `<div>` is where all your content goes.
      text-align: center;
      padding: 0 0 0;
      border-bottom: 1px solid #eee;
-     
+     max-width:1024px;
      padding-left: 0;
      padding-right: 0;
 
