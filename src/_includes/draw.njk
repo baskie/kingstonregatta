@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}</title>
 <link href="http://www.kingstonregatta.co.uk/style.css" rel="stylesheet" type="text/css">
-
 </head>
 <style>
 .myButton {
@@ -29,25 +28,12 @@
 	position:relative;
 	top:1px;
 }
-
 </style>
 <body>
-
-
-
-
-  
- 
-
-  <div class="clear" >
-   <div id=head class="header" style="padding-left: 0px; padding-right: 0px; " >
-<a href="/" class="myButton" >Home</a>
+<div class="clear" />
+<div id=header class="left" >
+  <a href="/" class="myButton" >Home</a>
 </div>
-      {{ content | safe }}
-  </div>
- 
-
-
-
+{{ content | safe }}
 </body>
 </html>
