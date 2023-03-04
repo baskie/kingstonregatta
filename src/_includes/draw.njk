@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+
+
+</head>
+<style>
+.myButton {
+
+	background-color:#9b2321;
+	border:1px solid #9b2321;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:9px 23px;
+	text-decoration:none;
+
+}
+.myButton:hover {
+	background-color:#777777;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+</style>
+<body>
+
+
+
+
+  
+  <div id="main">
+
+  <div id=head class="header" style="padding-left: 0px; padding-right: 0px; " >
+<a href="/" class="myButton">Home</a>
+
+  </div>     {{ content | safe }}
+  </div>
+  </div>
+
+
+
+</body>
+</html>

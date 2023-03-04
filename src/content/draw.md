@@ -1,5 +1,5 @@
 ---
-layout: article.njk
+layout: draw.njk
 title: 2021 Draw and Results
 pageTitle: 2021 Draw and Results
 
