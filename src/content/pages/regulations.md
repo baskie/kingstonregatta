@@ -71,7 +71,7 @@ templateEngineOverride: njk,md
         </ol>
         <h3>Time Limit for Entries/Withdrawal</h3>
         <ol>
-          <li  value="21">Entries must be received, via <a href="https://broe2.britishrowing.org/" target="new">BROE2</a>, by 10am on Monday 4 July 2022.<br>
+          <li  value="21">Entries must be received, via <a href="https://broe2.britishrowing.org/" target="new">BROE2</a>, by 10am on Monday 3 July 2023.<br>
           </li>
           <li>Crews that notify the Entries Secretary that they wish to withdraw after entries close are still liable to pay the entry fee.</li>
         </ol>

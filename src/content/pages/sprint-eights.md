@@ -18,7 +18,7 @@ templateEngineOverride: njk,md
 <!--
 		<br><strong>View the draw for the 2021 Diamond Jubilee Sprint Eights <a href="docs/DiamondJubileeSprintEights - Draw 2021.pdf">here</a> </strong>
 		-->
-<p><strong>View the results for the 2021 Diamond Jubilee Sprint Eights <a href="/docs/DiamondJubileeSprintEights - Results 2021.pdf">here</a> </strong></p>
+<p><strong>View the results for the 2022 Platinum Jubilee Sprint Eights <a href="/docs/PlatinumJubileeSprintEights - Results 2022.pdf">here</a> </strong></p>
 		<h3>Regulations</h3>
         <ul>
           <li>350 metres, two abreast</li>
@@ -33,15 +33,15 @@ templateEngineOverride: njk,md
           <li>These are non-qualifying events</li>
           <li>The entry fee and a hard copy of the final crew list will be required before that crew&#8217;s first race</li>
           <li>The draw will be posted on the regatta website by midday Thursday 
-			7 July 2022</li>
+			6 July 2023</li>
         </ul>
 		<h3>Entry procedure</h3>
         <ul>
-          <li>Clubs should register entries to status events as normal on BROE before the closing date of 10am on Monday 4 July 2022</li>
-          <li>Clubs that enter eights events will be sent an email or telephoned before midnight Tuesday 5 July and invited to enter the appropriate Sprint Eights event</li>
+          <li>Clubs should register entries to status events as normal on BROE before the closing date of 10am on Monday 3 July 2023</li>
+          <li>Clubs that enter eights events will be sent an email or telephoned before midnight Tuesday 4 July and invited to enter the appropriate Sprint Eights event</li>
           <li>Clubs should accept the invitation by email, including a BR regatta entry form, by 10:00am 
-			Wednesday 6 July</li>
-          <li>Each event requires at least four crews; the Regatta will send email confirmation by midday Thursday 7 July for each event whether it is to be run or not</li>
+			Wednesday 5 July</li>
+          <li>Each event requires at least four crews; the Regatta will send email confirmation by midday Thursday 6 July for each event whether it is to be run or not</li>
         </ul>
 		<h3>Racing</h3>
         <ul>

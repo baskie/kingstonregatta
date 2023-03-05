@@ -6,11 +6,11 @@ templateEngineOverride: njk,md
 ---
 <div id="nav" style="display:none">1</div>
 <div class="sponsors">
-<h3>Main Sponsor</h3>
+<!--<h3>Main Sponsor</h3>
     <div class="sponsors">
         <a href="https://www.cnmestates.com/" target="new"><img src="/images/logos/Sponsored_by_CNM.jpg" alt="CNM Estates" height="122" width="99"></a>
         <p><span class="smallTitle">CNM Estates</span> are our Main Sponsor.</p>
-    </div>
+    </div>-->
 <h3>Key Sponsors</h3>
     <div class="sponsors">
         <a href="https://www.kingston.gov.uk/" target="new"><img src="/images/logos/rbkot.jpg" alt="Royal Borough of Kingston Upon Thames"  width="130" ></a>

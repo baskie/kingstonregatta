@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-pageTitle: Competitors - 2022 Events
+pageTitle: Competitors - 2023 Events
 articleTitle:
 templateEngineOverride: njk,md
 ---
@@ -15,8 +15,8 @@ templateEngineOverride: njk,md
     <p class="compact">The most successful club of each day will receive a 3-pint tankard</p>
     </div>
     <div class="mediumBox"><h2  style="display:inline" >Entries and fees using <a href="https://broe2.britishrowing.org/" target="new">BROE2</a> only</h2></div>
-    <p class="stronger">Entries must be received by 10am Monday 4th July 2022.</p>
-    <h2>Kingston Amateur Regatta - Saturday 9 July 2022</h2>
+    <p class="stronger">Entries must be received by 10am Monday 3rd July 2023.</p>
+    <h2>Kingston Amateur Regatta - Saturday 8 July 2023</h2>
     <div><p  class="compact">Divisions 1 & 2 - 1000m downstream from stake boats, 3 abreast</p>
     <p  class="compact">Sprints - 350m from a free start, 2 abreast</p>
     <p  class="compact">No doubling in a division</p>
@@ -201,7 +201,7 @@ templateEngineOverride: njk,md
 				</table>
 				<p>&nbsp;</p>
 				<!--<br><strong>View the draw for the Jubilee Sprints <a href="docs/PlatinumJubileeSprintEights - Draw.pdf">here</a> </strong>-->
-				<h2>Kingston Borough Regatta - Sunday 10 July 2022</h2>
+				<h2>Kingston Borough Regatta - Sunday 9 July 2023</h2>
 	      <p>500m racing downstream from a free start<br>No doubling in a division</p>
 	      <p>All J15 events and J14 4x+ & 8x+ 3 abreast<br>All other events 2 abreast</p>
           <p>Note: J13 and WJ13 4x+ and 8x+ events have swapped divisions since the regatta flyer was published. <br>Events will be run as displayed below and detailed on <a href="https://broe2.britishrowing.org/" target="new">BROE2</a></p>
@@ -311,4 +311,4 @@ templateEngineOverride: njk,md
 		        <li><strong>TELEPHONE CONFIRMATIONS</strong> may be made on +44 (0) 7952 586 784</li>
 		        <li>In the unlikely event of late regatta cancellation, one entry fee per competitor will be retained to cover costs.</li>
 		      </ul>
-	         <p><strong>Entries must be completed by 10am Monday 4th July 2022.</strong></p>
+	         <p><strong>Entries must be completed by 10am Monday 3rd July 2023.</strong></p>
