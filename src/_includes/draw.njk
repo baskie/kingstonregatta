@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=0.5">
  <title>{{ title }}</title>
 <style>
+
+
 .drawButton {
 
 	background-color:#9b2321;
@@ -54,10 +56,6 @@ function go(val){
     <button id="showButton" onClick="go('show')" class="drawButton" style="display: none">Show Blades</button>
     <button id="hideButton" onClick="go('hide')" class="drawButton" >Hide Blades</button>
 	</div>
-
-	<div class="clear"/>
-    
-	<div>
-		<iframe id="drawIframe" frameborder="0" width="100%" height=800 src="https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&f=1&b=1&day=1"> </iframe>
-  </div>
+		<iframe id="drawIframe" frameborder="0" scrolling="no" height="1000" width="100%"  src="https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&f=1&b=1&day=1"> </iframe>
+</body>
 </html>
