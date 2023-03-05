@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -49,13 +48,13 @@ function go(val){
 </script>
 
 </head>
-<body>
+<body style="margin:0px;padding:0px;overflow:hidden">
 	
 	<div id="header" class="left">
 		<a href="/" class="drawButton">Home</a>
     <button id="showButton" onClick="go('show')" class="drawButton" style="display: none">Show Blades</button>
     <button id="hideButton" onClick="go('hide')" class="drawButton" >Hide Blades</button>
 	</div>
-		<iframe id="drawIframe" frameborder="0" scrolling="no" height="1000" width="100%"  src="https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&f=1&b=1&day=1"> </iframe>
+		<iframe id="drawIframe" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%" src="https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&f=1&b=1&day=1"> </iframe>
 </body>
 </html>
