@@ -1,0 +1,208 @@
+BODY
+{
+    FONT-FAMILY: Arial;
+}
+PRE
+{
+    FONT-FAMILY: 'Courier New', 'Lucida Console'
+}
+.scratched
+{
+    TEXT-DECORATION: line-through
+}
+.red
+{
+    COLOR: red
+}
+.black
+{
+    COLOR: black
+}
+.b
+{
+    FONT-WEIGHT: bold
+}
+.c
+{
+    TEXT-ALIGN: center
+}
+.l
+{
+    TEXT-ALIGN: left
+}
+.r
+{
+    TEXT-ALIGN: right
+}
+.i {
+    font-style: italic;
+}
+
+TABLE.ct 
+{
+    MARGIN-LEFT: auto;
+    MARGIN-RIGHT: auto;
+   
+}
+A:focus
+{
+    OUTLINE-STYLE: none;
+    OUTLINE-COLOR: invert;
+    OUTLINE-WIDTH: medium
+}
+IMG
+{
+    BORDER-BOTTOM: medium none;
+    BORDER-LEFT: medium none;
+    BORDER-TOP: medium none;
+    BORDER-RIGHT: medium none
+}
+.sortheader
+{
+    TEXT-DECORATION: none
+}
+
+A
+{
+    COLOR: blue;
+}
+
+A:visited
+{
+    COLOR: blue;
+}
+
+th.headerSortUp { 
+	background-color: #3399FF !important;
+}
+
+th.headerSortDown { 
+	background-color: #3399FF !important;
+} 
+
+.racetitle
+{
+	font-size:2em;
+	text-align:center;
+	font-weight:bold;
+}
+
+.pagetitle
+{
+	font-size:1.2em;
+	text-align:center;
+	font-weight:bold;
+	position:relative;
+	top:10px;
+}
+
+.rm_title_status {
+    font-size: 1.5em;
+    text-align: left;
+    font-weight: bold;
+}
+
+.rm_title_club {
+    font-size: 1.5em;
+    text-align: left;
+    font-weight: bold;
+}
+
+table.hilight, table.flat
+{
+	border-collapse:collapse;
+	border:none;		
+}
+
+    table.rm_no_border {
+        border: none;
+    }
+
+table.flat th.rm_no_border, table.flat td.rm_no_border 
+{
+    border: none;
+}
+
+    table.flat th.rm_transparent, table.flat td.rm_transparent 
+    {
+        border: none;
+        background-color: #FFFFFF;
+    }
+
+table.hilight tr:nth-child(odd)
+{
+	background-color:#DDDDDD;	
+}
+			
+table.hilight tr:nth-child(even)
+{
+	background-color:#EEEEEE;	
+}
+
+table.hilight th, table.flat th
+{
+	background-color:#CCCCCC;	
+}
+			
+table.hilight th, table.hilight td, table.flat th, table.flat td
+{
+	border-collapse:collapse;
+	border:1px solid black;
+}
+
+.unseen {
+    background-color: #e1f201;
+}
+
+/* This makes hr about 80% - so it does not obscure the club crest*/
+hr.narrow {
+   
+    margin-left: 0px;
+    margin-right:170px;
+}
+
+img.oar
+{
+    float:left;
+}
+
+th.w30 
+{
+    width: 30px;
+}
+th.w40 
+{
+    width: 40px;
+}
+th.w50
+{
+    width: 50px;
+}
+th.w60 {
+    width: 60px;
+}
+th.w70 
+{
+    width: 70px;
+}
+th.w90 
+{
+    width: 90px;
+}
+th.w120 {
+    width: 120px;
+}
+.spider {
+    /*
+    font-family: 'Courier New';
+    display: block;
+    white-space: pre;
+    margin: 1em 0;
+*/
+    FONT-FAMILY: 'Courier New','Lucida Console';
+    font-size: 1.0em;
+    line-height: 1.0em;
+    white-space: pre;
+    overflow-y: hidden;
+    padding-bottom: 0.5em;
+}
