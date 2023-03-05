@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
  <title>{{ title }}</title>
-<!--<link href="/css/karstyle.css" rel="stylesheet" type="text/css">-->
+
 
 <style>
 .drawButton {
@@ -28,20 +28,59 @@
 	top:1px;
 }
 </style>
+
+<script type="text/javascript">
+
+function go(val){
+  var iframe = document.getElementById("drawIframe");
+  if (val=='hide'){
+    document.getElementById("hideButton").style.display = "none";
+    document.getElementById("showButton").style.display = "inline";
+      iframe.src = "https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&day=1";
+  }
+  if (val=='show'){
+    document.getElementById("showButton").style.display = "none";
+    document.getElementById("hideButton").style.display = "inline";
+      iframe.src = "https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&f=1&b=1&day=1";
+  }
+ 
+}
+</script>
+
 </head>
 <body>
 	
 	<div id="header" class="left">
 		<a href="/" class="drawButton">Home</a>
+<!--
+    <form method="post">
+    <a href="."  name="bladeSelection" class="drawButton" onClick="toggle('0')" >Hide Blades</a>
+  </form>
+-->
+    <button id="showButton" onClick="go('show')" class="drawButton" style="display: none">Show Blades</button>
+    <button id="hideButton" onClick="go('hide')" class="drawButton" >Hide Blades</button>
+
+
+
+  <!--<a href="." class="drawButton" onClick="toggle('0')">Toggle Blade Colours</a>-->
+
+
 	</div>
+   <!--<iframe id="myFrame" frameborder="0" width="100%" height=500 src=""> </iframe>-->
+
 	<div class="clear"/>
 
+
+	
+    
 	<div>
 		
 
 
-		 
-        <iframe frameborder="0" width="100%" height=800 src="https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&f=1&b=1&day=1"> </iframe>
+		<iframe id="drawIframe" frameborder="0" width="100%" height=800 src="https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&f=1&b=1&day=1"> </iframe>
+        
+        <!--<iframe frameborder="0" width="100%" height=800 src="https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&f=1&b=1&day=1"> </iframe>-->
+
 		  
 
      
