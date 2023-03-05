@@ -1,6 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- saved from url=(0047)http://www.kingstonregatta.co.uk/email-form.php -->
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 
 <title>Email KAR</title>
 <style type="text/css">
@@ -91,7 +90,7 @@ function YY_checkform() { //v4.65
 <body>
 <h3>Send an email to Kingston Regatta</h3>
 
-<form action="http://www.kingstonregatta.co.uk/email-form.php??GP_upload=true" method="post" enctype="multipart/form-data" name="form1" id="form1" onsubmit="YY_checkform(&#39;form1&#39;,&#39;name&#39;,&#39;#q&#39;,&#39;0&#39;,&#39;Please enter your name&#39;,&#39;email&#39;,&#39;#S&#39;,&#39;2&#39;,&#39;Please enter your email address&#39;,&#39;details&#39;,&#39;5&#39;,&#39;1&#39;,&#39;Please enter your message&#39;);checkFileUpload(this,&#39;&#39;,false,2000,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;);return document.MM_returnValue">
+<form action="https://www.kingstonregatta.co.uk/email-form.php??GP_upload=true" method="post" enctype="multipart/form-data" name="form1" id="form1" onsubmit="YY_checkform(&#39;form1&#39;,&#39;name&#39;,&#39;#q&#39;,&#39;0&#39;,&#39;Please enter your name&#39;,&#39;email&#39;,&#39;#S&#39;,&#39;2&#39;,&#39;Please enter your email address&#39;,&#39;details&#39;,&#39;5&#39;,&#39;1&#39;,&#39;Please enter your message&#39;);checkFileUpload(this,&#39;&#39;,false,2000,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;);return document.MM_returnValue">
   <p>
   <label>Subject:</label>
   <input name="subject" type="hidden" id="subject" value="KAR Regatta - Enquiry">
