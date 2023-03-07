@@ -42,11 +42,13 @@ The content `<div>` is where all your content goes.
 .content {
     margin: 0 auto;
     padding: 0 2em;
+    padding-left: 0;
+    padding-right: 0;
     max-width: 1024px;
 
     margin-bottom: 50px;
     line-height: 1.6em;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 

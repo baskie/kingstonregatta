@@ -21,7 +21,7 @@ templateEngineOverride: njk,md
     <p  class="compact">Sprints - 350m from a free start, 2 abreast</p>
     <p  class="compact">No doubling in a division</p>
     </div>
-<p>&nbsp;</p>
+<br/>
 <div class="stronger">
 <p class="compact">Separate Open and Women's events for J, J16 and Mas classes</p>
 <p class="compact">Senior racing in Event Bands</p>
@@ -29,6 +29,8 @@ templateEngineOverride: njk,md
 <p class="compact">Recreational rowing events are open to those not training for open BR competition</p>
 <p class="compact">The Recreational Novice 4x+ event is open to competitors who started rowing after 1st January 2021</p>
 <p class="compact">Mixed crews must include at least two women (excluding the cox)</p>
+<br/>
+
 </div>        
 </div>        
 
@@ -199,7 +201,7 @@ templateEngineOverride: njk,md
 						<td class="r b">&nbsp;</td>
 					</tr>
 				</table>
-				<p>&nbsp;</p>
+				<br/>
 				<!--<br><strong>View the draw for the Jubilee Sprints <a href="docs/PlatinumJubileeSprintEights - Draw.pdf">here</a> </strong>-->
 				<h2>Kingston Borough Regatta - Sunday 9 July 2023</h2>
 	      <p>500m racing downstream from a free start<br>No doubling in a division</p>
