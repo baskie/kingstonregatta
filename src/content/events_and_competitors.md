@@ -34,7 +34,7 @@ templateEngineOverride: njk,md
 </div>        
 </div>        
 
-<table class="bluegrid" width="100%" cellspacing="0" cellpadding="6">
+<table class="redgrid" width="100%" cellspacing="0" cellpadding="6">
 	<tr>
 		<td width="11.1%">&nbsp;</td>
 		<td width="48%" colspan="4"><b>Division 1</b></td>
@@ -208,7 +208,7 @@ templateEngineOverride: njk,md
 	      <p>All J15 events and J14 4x+ & 8x+ 3 abreast<br>All other events 2 abreast</p>
           <p>Note: J13 and WJ13 4x+ and 8x+ events have swapped divisions since the regatta flyer was published. <br>Events will be run as displayed below and detailed on <a href="https://broe2.britishrowing.org/" target="new">BROE2</a></p>
           <p><strong>Open and Women, J15 Women only</strong></p>
-          <table class="bluegrid" width="100%" cellspacing="0" cellpadding="6">
+          <table class="redgrid" width="100%" cellspacing="0" cellpadding="6">
 					<tr>
 						<td>&nbsp;</td>
 						<td colspan="4"><b>Division 1</b></td>

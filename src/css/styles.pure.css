@@ -102,15 +102,15 @@ p.compact {
     font-size: 1.1em;
     font-weight: 700;
 }
-table.bluegrid {
+table.redgrid {
     font-family: Arial, Helvetica, sans-serif;
     border: 2px solid #9b2321;
     height: 200px;
     text-align: center;
     border-collapse: collapse;
 }
-table.bluegrid td,
-table.bluegrid th {
+table.redgrid td,
+table.redgrid th {
     border: 1px solid #9b2321;
     padding: 4px 4px;
 }
@@ -198,6 +198,27 @@ a.pure-menu-buttonlink {
 .contacts h5 {
     font-size: 1.1em;
 }
+
+.imgLeft {
+    max-width: 100%;
+    height: auto;
+    margin-top: 6px;
+    margin-right: 12px;
+    margin-bottom: 4px;
+    margin-left: 0;
+}
+.imgRight {
+    max-width: 100%;
+    height: auto;
+    margin-top: 6px;
+    margin-right: 0;
+    margin-bottom: 4px;
+    margin-left: 12px;
+}
+
+
+ /* For devices 400px and larger: */
+@media only screen and (min-device-width: 400px) {
 .imgLeft {
     float: left;
     margin-top: 6px;
@@ -212,6 +233,8 @@ a.pure-menu-buttonlink {
     margin-bottom: 4px;
     margin-left: 12px;
 }
+}
+
 .imgLeft img {
     padding: 1px;
     border: 1px solid #000;

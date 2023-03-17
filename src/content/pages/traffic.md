@@ -8,7 +8,7 @@ templateEngineOverride: njk,md
 ---
 <p>In addition to <a href="/instructions/">Access and Reporting Instructions</a> to crews and spectators, regatta officials will marshal traffic at the regatta as detailed below.</p>
 <img src="/images/traffic.gif">
-<table class="bluegrid textleft" width="100%" cellspacing="0" cellpadding="6">
+<table class="redgrid textleft" width="100%" cellspacing="0" cellpadding="6">
   <tr>
   	<th colspan="2"><b>Control Points</b></th>
 	</tr>
