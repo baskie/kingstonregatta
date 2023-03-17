@@ -28,10 +28,12 @@ h5 {
     font-size: 1.2em;
     color: #353535;
 }
-p {
-    font-size: 1.0em;
-    color: #353535;
-}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
 
 p.compact {
     margin: 0 !important;
