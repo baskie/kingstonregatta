@@ -524,6 +524,47 @@ a.pure-menu-buttonlink {
 .fa-window-close:before {
     content: "\f2d3";
 }
+
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+ }
+  
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+  
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+.fa-facebook-f:before, .fa-facebook:before {
+    content: "\f09a";
+}
+
+.fa-twitter:before {
+    content: "\f099";
+}
+
+.fa-youtube:before {
+    content: "\f167";
+}
+
+.social-buttons {
+    display:inline-block;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 10px;
+  }
+
+  .social-div{
+    padding-left:0;
+  }
+
 body {
     color: #777;
 }
