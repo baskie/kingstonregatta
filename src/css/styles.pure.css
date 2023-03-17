@@ -28,6 +28,11 @@ h5 {
     font-size: 1.2em;
     color: #353535;
 }
+p {
+    font-size: 1.0em;
+    color: #353535;
+}
+
 p.compact {
     margin: 0 !important;
     font-weight: 500;
