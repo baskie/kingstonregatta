@@ -23,6 +23,6 @@ jobs:
       with:
         server: ftp.bascombe.net
         local-dir: ./public/ 
-        server-dir: /public_html/kartest/
+        server-dir: /
         username: kartest@bascombe.net
         password: ${{ secrets.KAR_TEST_PWD }}
