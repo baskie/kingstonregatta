@@ -22,6 +22,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: ftp.bascombe.net
-        server-dir: /public_html/kartest
+        server-dir: /public_html/kartest/
         username: kartest@bascombe.net
         password: ${{ secrets.KAR_TEST_PWD }}
