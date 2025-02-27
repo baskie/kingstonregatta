@@ -25,21 +25,10 @@ templateEngineOverride: njk,md
 </div>
 
 <div class="foodmenu">
-    <img src="/images/Mexican.jpg">
-    <h3>Margo + Rita</h3>
+    <img src="/images/Dough_Shack.jpg">
+    <h3>Dough Shack</h3>
 	<ul>
-        <li>Burritos (meat/veg/vegan)</li>
-		<li>Rice box</li>
-        <li>Nachos</li>
-        <li>Soft drinks</li>
-    </ul>
-</div>
-
-<div class="foodmenu">
-	<img src="/images/Celebrations.jpg">
-	<h3>Celebrations</h3>
-    <ul>
-        <li>Ice cream</li>
+        <li>Traditional Wood fired Pizza</li>
     </ul>
 </div>
         <h3>Drinks</h3>

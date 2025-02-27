@@ -16,7 +16,7 @@ eval("page" + " = window.open(URL, '" + "', 'toolbars=0,scrollbars=0,location=0,
 <div class="contacts">
 <h5>Competitors</h5>
         <p>See the <a href="/events_and_competitors">Competitors page</a>.</p>
-        <p>TELEPHONE QUERIES may be made on 07952 586 784<br>
+        <p>TELEPHONE QUERIES may be made on 07771 774717<br>
         or <a href="javascript:popUp('../email-form.php?contact=1')">email here</a>.</p>
         <h5>Supporters</h5>
         <p>For more details about watching the regatta or booking

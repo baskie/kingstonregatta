@@ -9,7 +9,7 @@ templateEngineOverride: njk,md
 <div id="regulations">
 <!--<h3>COVID-19</h3><p align="justify">We ask everyone attending the event to read and comply with regatta's <a href="docs/KAR General Covid Guidance 08.7.21.PDF">	General COVID Guidance</a>.</p>-->
 <h3>Safety on the water</h3>
-<p align="justify">Although there is in force an <a href="https://www.gov.uk/government/publications/kingston-amateur-regatta-2021-river-restriction-notice/kingston-amateur-regatta-2021-river-restriction-notice" target="new">EA notice</a>, restricting access to the regatta course by general traffic, the river is <strong>not</strong> closed to other river users. Please therefore read these instructions  in conjunction with the <a href="/circulation/">map</a> of the course showing the required circulation pattern.</p>
+<p align="justify">Although there is in force an EA notice, restricting access to the regatta course by general traffic, the river is <strong>not</strong> closed to other river users. Please therefore read these instructions  in conjunction with the <a href="/circulation/">map</a> of the course showing the required circulation pattern.</p>
         <p><strong>Keep Right (starboard, to bow side) at all times</strong> when navigating and observe the following rules:-</p>
         <h5>Boating from the Landing Stages</h5>
         <ol>
@@ -74,12 +74,12 @@ templateEngineOverride: njk,md
         <h3>General Safety Information<strong> </strong></h3>
         <ol start="12">
           <li>A <strong>St John Ambulance</strong> will be situated at all times during the regatta on the  Middlesex bank between Kingston Bridge and the boating rafts.&nbsp; Paramedics/first aid assistants will be available.</li>
-			<li>The regattas' <strong>child welfare officers</strong>, who will	be in attendance throughout the regatta, are Chris Andrews (07977 497551) and Sarah Searle (07721 994724).</li>
+			<li>The regattas' <strong>child welfare officers</strong>, who will	be in attendance throughout the regatta, are:<br>
+			<strong>Saturday</strong>Sarah Searle (mobile no 07721 994724) and<br>
+			<strong>Sunday</strong>Sunara Spires (07966 424617).</li>
           <li><strong>Safety  boats</strong>.&nbsp; There will be two safety boats in attendance throughout the regatta, situated at the start and the finish and patrolling the course regularly throughout the day.</li>
-          <li>The  nearest <strong>public phone box</strong> is on the far side of the roundabout on the  Hampton Wick end of Kingston Bridge.&nbsp;The  telephone number of this phone box is 0208 943 2735.</li>
+          <li>The  nearest <strong>public phone box</strong> is on the far side of the roundabout on the  Hampton Wick end of Kingston Bridge.&nbsp;The telephone number of this phone box is 0208 943 2735.</li>
           <li>The <strong>safety adviser</strong> for the regatta is Stephen Drury, whose mobile is 07768  634756.</li>
-		  <!--
-		  <li>The <strong>COVID-19 Compliance Officer </strong>&nbsp;is Ian Martin, whose mobile is 07771 774717.</li>
           -->
           <li>In  order to <strong>summon help</strong> at any time, please contact the nearest regatta  official, who will have a radio link to regatta control and the safety launches.</li>
           <li>In the event of a thunderstorm, whether on the water or in the enclosure area, please follow the directions of the safety adviser who will advise you as to how best to reach a place of safety.</li>
@@ -87,7 +87,16 @@ templateEngineOverride: njk,md
 		  <li>Arrangements for regatta traffic management are detailed <a href="/traffic/">here</a>.</li>
         </ol>
         <h3>Safety Studies<strong> </strong></h3>
-        <p align="justify">The regatta safety advisor has produced a Risk Assessment (<a href="/pdfs/KAR_KBR Waterside Risk Assessment July 2021.pdf">PDF</a>) and a Hazard Control Protocol (<a href="/pdfs/Kingston Regatta - Appendix_  hazard_control description.pdf">PDF</a>), which invokes Accident Plan A (on the water) (<a href="/pdfs/Kingston Regatta - accident plan A.pdf">PDF</a>) and Accident Plan B (on land) (<a href="/pdfs/Kingston Regatta - accident plan B.pdf">PDF</a>).</p> 
+        <p align="justify">The regatta safety advisor has produced a Risk Assessment 
+		(<a href="/pdfs/KAR_KBR Risk Assessment 2024.pdf">PDF</a>) and a Hazard Control Protocol 
+		(<a href="/pdfs/Kingston Regatta 2024 - Appendix_ hazard_control description.pdf">PDF</a>), which invokes Accident Plan A (on the water) 
+		(<a href="/pdfs/Kingston Regatta - accident plan A.pdf">PDF</a>) and Accident Plan B (on land) 
+		(<a href="/pdfs/Kingston Regatta - accident plan B.pdf">PDF</a>).</p> 
+		<p align="justify">Please also note the reference to water quality inn the Hazard Control 
+		Protocol and the <a href="https://www.britishrowing.org/wp-content/uploads/2024/03/Guidance-for-Rowing-When-Water-Quality-is-Poor-March-2024.pdf">BR Guidance</a>. 
+			Recent water quality readings can be found <a href="https://www.thames-watch.uk/?TestLocationID=37f2b84b-3526-ef11-913f-801844dec051">here</a>.</p>
+		<p align="justify">In addition, find details of the regatta 
+			Cancellation and Postponement Procedure (<a href="/pdfs/Cancellation and Postponement Procedure KAR.pdf">PDF</a>).</p>
 		<!--
 		<p align="left">The COVID Compliance Officer has produced a COVID Risk Assessment (<a href="docs/KAR COVID Risk Assessment 28.6.21.PDF">PDF</a>) 
 		and a COVID&nbsp;Secure&nbsp;Self&nbsp;Declaration (<a href="docs/200916-COVID-Secure-Self-Declaration-Kingston Rgtta 28.6.21.PDF">PDF</a>).</p>

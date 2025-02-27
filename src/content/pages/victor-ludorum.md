@@ -16,5 +16,5 @@ templateEngineOverride: njk,md
     <li>In the event of two or more clubs with the same number of points, the winning club will be that one with the larger number of event wins. If this still results in a tie, the club with most race wins, in events it wins, will be declared the VL winner.</li>
  <li>The trophy  for each day will be a 3-pint tankard.</li>
  </ul>
-   <h3>2021 Results</h3>
-     <p>The winners were Kingston Rowing Club on Saturday and Surbiton High School on Sunday. Congratulations.</p>
+   <h3>2024 Results</h3>
+     <p>The winners were Surbiton High School on Saturday and Brentford Boat Club on Sunday. Congratulations.</p>

@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Kingston Regatta 2023
-pageTitle: Kingston Regatta 2023
+title: Kingston Regatta 2025
+pageTitle: Kingston Regatta 2025
 templateEngineOverride: njk,md
 ---
 <div id="nav" style="display:none">1</div>
@@ -11,7 +11,7 @@ templateEngineOverride: njk,md
 
 <p> Kingston Regatta has been contested on the river at Kingston upon Thames since 1857 and the Committee and Sponsors are pleased to continue this superb tradition</p>
 <div style="position:relative;">
-<h2>8 &amp; 9 July 2023</h2>
+<h2>12 &amp; 13 July 2025</h2>
 <h2>320 races from 8.30 am to 6.30 pm each day</h2>
 </div>
 <h3><a href="/results">Results from previous years</a></h3>		

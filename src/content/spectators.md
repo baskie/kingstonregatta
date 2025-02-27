@@ -11,7 +11,7 @@ templateEngineOverride: njk,md
 	      <strong>Spectators : </strong><a href="/pdfs/SubscribersForm.pdf">Subscriber&rsquo;s Application Form</a>  : <a href="/lunches_and_hospitality/">Lunches &amp; Hospitality</a></p>
  	      <!--<h2>Everyone Welcome in the Enclosure</h2>-->
 	      <h2>Regatta Enclosure</h2>
-	      <p>Entry £2 per person, which can be paid on the day</p>
+	      <p>£10 for parking. No charge for entry to the enclosures</p>
 	      <p>See the finishes from close up and enjoy the food and refreshments</p>
 	      <p>Crew tents and gazebos are welcomed within the enclosure, <br>
 			 providing groups of no more than 30 people are gathered </p>
