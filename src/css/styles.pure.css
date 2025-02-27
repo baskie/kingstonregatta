@@ -40,7 +40,7 @@ p.compact {
     font-weight: 500;
 }
 a {
-    color: #9b2321;
+    color: #e31e05;
 }
 .centered {
     text-align: center;
@@ -62,13 +62,13 @@ p.compact {
     text-align: center;
     border: 4px;
     border-style: solid;
-    border-color: #9b2321;
+    border-color: #e31e05;
     border-radius: 4px;
     padding: 2px;
 }
 .krcbox {
     border-style: solid;
-    border-color: #9b2321;
+    border-color: #e31e05;
     border-radius: 4px;
     padding-left: 10px;
     padding-right: 10px;
@@ -104,14 +104,14 @@ p.compact {
 }
 table.redgrid {
     font-family: Arial, Helvetica, sans-serif;
-    border: 2px solid #9b2321;
+    border: 2px solid #e31e05;
     height: 200px;
     text-align: center;
     border-collapse: collapse;
 }
 table.redgrid td,
 table.redgrid th {
-    border: 1px solid #9b2321;
+    border: 1px solid #e31e05;
     padding: 4px 4px;
 }
 .dropdown-btn {
@@ -635,7 +635,7 @@ body {
     left: 0;
     bottom: 0;
     z-index: 1000;
-    background: #9b2321;
+    background: #e31e05;
     overflow-y: auto;
 }
 #menu a {
@@ -649,7 +649,7 @@ body {
     background: 0 0;
 }
 #menu .pure-menu ul {
-    border-top: 1px solid #9b2321;
+    border-top: 1px solid #e31e05;
 }
 #menu .pure-menu li a:focus,
 #menu .pure-menu li a:hover {
@@ -737,8 +737,8 @@ body {
     }
 }
 .drawButton {
-    background-color: #9b2321;
-    border: 1px solid #9b2321;
+    background-color: #e31e05;
+    border: 1px solid #e31e05;
     display: inline-block;
     cursor: pointer;
     color: #fff;
