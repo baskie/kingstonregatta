@@ -624,6 +624,7 @@ body {
     font-weight: 300;
     text-align: left;
     padding-left: 55px;
+    max-width:969;
 }
 .header h2 {
     font-weight: 300;
