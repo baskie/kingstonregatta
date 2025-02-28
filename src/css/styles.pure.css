@@ -9,6 +9,7 @@ h1 {
     font-weight: 400;
     font-size: 1.8em;
     color: #353535;
+    //max-width: 100%;
 }
 h2 {
     font-weight: 500;
@@ -728,7 +729,7 @@ body {
         left: 200px;
     }
     #head .banner {
-        background-size: 560px auto;
+        background-size: 768px auto;
     }
     #head {
         height: 163px;
@@ -738,6 +739,7 @@ body {
     }
     .header h1 {
         font-size: 2.5em;
+        max-width: 100%;
     }
 }
 .drawButton {
