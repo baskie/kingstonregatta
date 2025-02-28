@@ -293,7 +293,7 @@ racing shells are prohibited.</p>
 						<td class="r b">&nbsp;</td>
 					</tr>
 					</table>
-		      <ul style="margin-left: 1.4em;">
+		      <ul>
 		      <li>Entry fee, &pound;20 per rowing seat, except <a href="/sprint-eights/">Platinum Jubilee Sprint Eights</a>.</li>
 		      <li>Entries will be accepted, providing there are a sufficient crews entered and sufficient time in the racing programme. </li>
 		      <li>If an event is over-subscribed, crews that have been entered will be put into the next appropriate status or age-group, unless a comment has been made with the entry in <a href="https://broe2.britishrowing.org/" target="new">BROE2</a>.</li>
