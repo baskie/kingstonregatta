@@ -1,7 +1,7 @@
 ---
 layout: article.njk
-title: Competitiors - Safeguarding
-pageTitle: Competitiors - Safeguarding
+title: Competitors - Safeguarding
+pageTitle: Competitors - Safeguarding
 articleTitle: Safeguarding
 
 templateEngineOverride: njk,md
