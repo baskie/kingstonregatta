@@ -8,7 +8,7 @@ templateEngineOverride: njk,md
 <div id="nav" style="display:none">1</div>
 <div class="centered">
 		  <div id="main" class="left">
-	      <strong>Spectators : </strong><a href="/pdfs/SubscribersForm.pdf">Subscriber&rsquo;s Application Form</a>  : <a href="/lunches_and_hospitality/">Lunches &amp; Hospitality</a></p>
+	      <strong>Spectators : </strong><a href="/pdfs/SubscribersForm.pdf">Subscriber&rsquo;s Application Form</a>  : <a href="/lunches_and_hospitality/">Lunches&nbsp;Hospitality</a></p>
  	      <!--<h2>Everyone Welcome in the Enclosure</h2>-->
 	      <h2>Regatta Enclosure</h2>
 	      <p>£10 for parking. No charge for entry to the enclosures</p>
