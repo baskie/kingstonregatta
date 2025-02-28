@@ -748,13 +748,13 @@ body {
         left: 200px;
     }
     #head .banner {
-        background-size: 352px auto;
+        background-size: 368px auto;
     }
     #head {
-        height: 103px;
+        height: 108px;
     }
     .header {
-        height: 103px;
+        height: 108px;
     }
     .header h1 {
         font-size: 1.5em;
