@@ -6,7 +6,7 @@ articleTitle: Platinum Jubilee Sprint Eights
 
 templateEngineOverride: njk,md
 ---
-<div style=" text-align: left; width:400px; max-width:100%">
+<div style=" text-align: left">
 <img style="float:right" src="/images/2ptMug.jpg" alt="2-pint tankard" width="100" height="110">
 <h3>Win Kingston's famous quart tankards</h3>
 </div>
