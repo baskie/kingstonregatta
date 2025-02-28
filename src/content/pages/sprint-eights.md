@@ -1,7 +1,7 @@
 ---
 layout: article.njk
-title: Competitiors -  Sprint Eights
-pageTitle: Competitiors - Platinum Jubilee Sprint Eights
+title: Competitors -  Sprint Eights
+pageTitle: Competitors - Platinum Jubilee Sprint Eights
 articleTitle: Platinum Jubilee Sprint Eights
 
 templateEngineOverride: njk,md
