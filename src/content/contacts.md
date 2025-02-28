@@ -17,21 +17,21 @@ eval("page" + " = window.open(URL, '" + "', 'toolbars=0,scrollbars=0,location=0,
 <h5>Competitors</h5>
         <p>See the <a href="/events_and_competitors">Competitors page</a>.</p>
         <p>TELEPHONE QUERIES may be made on 07771 774717<br>
-        or <a href="javascript:popUp('../email-form.php?contact=1')">email here</a>.</p>
+        or <a href="javascript:popUp('../email-form.php?contact=1')">email&nbsp;here</a>.</p>
         <h5>Supporters</h5>
         <p>For more details about watching the regatta or booking
-        	regatta lunches <a href="javascript:popUp('email-form.php?contact=2')">email here</a>.</p>
+        	regatta lunches <a href="javascript:popUp('email-form.php?contact=2')">email&nbsp;here</a>.</p>
         <h5>Subscriptions or Membership</h5>
         <p>For information about subscribing to the regatta
-        	<a href="javascript:popUp('email-form.php?contact=3')">email here</a>.</p>
+        	<a href="javascript:popUp('email-form.php?contact=3')">email&nbsp;here</a>.</p>
         <h5>Sponsorship and Advertising</h5>
         <p>For information about sponsorship or advertising
-        	<a href="javascript:popUp('email-form.php?contact=4')">email here</a>.</p>
+        	<a href="javascript:popUp('email-form.php?contact=4')">email&nbsp;here</a>.</p>
         <h5>Stalls</h5>
         <p>To take a stall in the enclosure, contact
-        	<a href="javascript:popUp('email-form.php?contact=6')">Chris Radford</a>.</p>
+        	<a href="javascript:popUp('email-form.php?contact=6')">Chris&nbsp;Radford</a>.</p>
         <h5>Publicity</h5>
-        <p>For information about the regatta <a href="javascript:popUp('email-form.php?contact=5')">email here</a>.</p>
+        <p>For information about the regatta <a href="javascript:popUp('email-form.php?contact=5')">email&nbsp;here</a>.</p>
         <h5>Website</h5>
-        <p>For any queries about the website <a href="javascript:popUp('email-form.php?contact=0')">email here</a>.</p>
+        <p>For any queries about the website <a href="javascript:popUp('email-form.php?contact=0')">email&nbsp;here</a>.</p>
 </div>
