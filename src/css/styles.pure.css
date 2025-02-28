@@ -34,9 +34,15 @@ html {
     -moz-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
   }
+
 li {
     margin-left: -0.7em;
 }
+
+img {
+max-width:100%;
+}
+
 p.compact {
     margin: 0 !important;
     font-weight: 500;
