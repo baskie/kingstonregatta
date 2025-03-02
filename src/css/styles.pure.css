@@ -599,15 +599,15 @@ body {
     padding: 0 2em;
     padding-left: 0;
     padding-right: 0;
-    max-width: 1024px;
+    max-width: 100%;
     margin-bottom: 50px;
     line-height: 1.6em;
     margin-left: 5px;
 }
 #head .banner {
-    background: url(https://responsiveregatta.netlify.app/images/banner.jpg) no-repeat;
+    background: url(../images/banner.jpg) no-repeat;
     background-size: 1024px auto;
-    height: 300px;
+    height: 200px;
 }
 .header {
     margin: 0;
@@ -615,7 +615,7 @@ body {
     text-align: center;
     padding: 0 0 0;
     border-bottom: 1px solid #eee;
-    max-width: 1024px;
+    max-width: 100%;
     padding-left: 0;
     padding-right: 0;
 }
@@ -720,7 +720,7 @@ body {
         left: 200px;
     }
     #head {
-        height: 300px;
+        height: 204px;
     }
 }
 @media (max-width: 48em) and (orientation: landscape) {
@@ -761,6 +761,9 @@ body {
         max-width: 100%;
     }
 }
+.increaseFont, .decreaseFont {color:#fff; text-decoration:none; background-color:#757575 ;padding:0.3em}
+.increaseFont a, .decreaseFont a {color:#fff;}
+
 .drawButton {
     background-color: #e31e05;
     border: 1px solid #e31e05;
