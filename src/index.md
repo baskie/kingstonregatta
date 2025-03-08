@@ -7,7 +7,7 @@ templateEngineOverride: njk,md
 <div id="nav" style="display:none">1</div>
 <div style="margin-left: 10px; text-align: left;">
 <!--<img class="karcrest" src="/images/logos/CNMEstatesKARLogo2009.gif" alt="KAR Crest">-->
-<img width="150" class="karcrest" src="/images/logos/karcrest.png" alt="KAR Crest" style="float:right;">
+<!--<img width="20%" class="karcrest" src="/images/logos/karcrest.png" alt="KAR Crest" style="float:right;">-->
 <!--test-->
 <p> Kingston Regatta has been contested on the river at Kingston upon Thames since 1857 and the Committee and Sponsors are pleased to continue this superb tradition</p>
 <div style="position:relative;">
