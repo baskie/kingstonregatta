@@ -5,7 +5,7 @@ body {
     margin: 0;
 }
 h1 {
-    font-family: "Times New Roman", Times, serif;
+    <!--font-family: "Times New Roman", Times, serif;-->
     font-weight: 400;
     font-size: 1.8em;
     color: #353535;
@@ -604,8 +604,9 @@ body {
     margin-left: 5px;
 }
 #head .banner {
-    background: url(../images/banner.jpg) left top no-repeat, url(../images/logos/karcrest.png) right top no-repeat;
-    background-size: 83%, 17%;
+    display:flex;
+    <!--background: url(../images/banner.jpg) left top no-repeat, url(../images/logos/karcrest.png) right top no-repeat;
+    background-size: 83%, 17%;==>
     min-height:100%;
 }
 .header {
@@ -719,17 +720,11 @@ body {
     #layout.active .menu-link {
         left: 200px;
     }
-    #head {
-        height: 204px;
-    }
 }
 @media (max-width: 48em) and (orientation: landscape) {
     #layout.active {
         position: relative;
         left: 200px;
-    }
-    #head {
-        height: 116px;
     }
     .header h1 {
         font-size: 2.5em;
@@ -740,9 +735,6 @@ body {
     #layout.active {
         position: relative;
         left: 200px;
-    }
-    #head {
-        height: 54px;
     }
     .header h1 {
         font-size: 1.5em;
