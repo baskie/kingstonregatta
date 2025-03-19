@@ -307,4 +307,7 @@ templateEngineOverride: njk,md
 		<li><strong>TELEPHONE CONFIRMATIONS</strong> may be made on +44 (0) 7771 774717</li>
 		<li>In the unlikely event of late regatta cancellation, one entry fee per competitor will be retained to cover costs.</li>
 	</ul>
-	<p><strong>Entries must be completed by 10am Monday 7th July 2025.</strong></p>
+	<div class="centered">
+		<p><strong>Entries must be completed by 10am Monday 7th July 2025.</strong></p>
+	</div>
+</div>
