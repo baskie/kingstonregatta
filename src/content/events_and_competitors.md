@@ -284,27 +284,27 @@ templateEngineOverride: njk,md
 				<td class=b>4x+</td>
 				<td class="r b">&nbsp;</td>
 			</tr>
-		</table>
-		<ul>
-			<li>Entry fee, &pound;20 per rowing seat, except <a href="/sprint-eights/">Platinum Jubilee Sprint Eights</a>.</li>
-			<li>Entries will be accepted, providing there are a sufficient crews entered and sufficient time in the racing programme. </li>
-			<li>If an event is over-subscribed, crews that have been entered will be put into the next appropriate status or age-group, unless a comment has been made with the entry in <a href="https://broe2.britishrowing.org/" target="new">BROE2</a>.</li>
-			<li>Priority will be given to complete entries with full payment.</li>
-			<li><span class="smallTitle">BROE2 Entry</span>
-				<ul>
-				<li>Indicate in <a href="https://broe2.britishrowing.org/" target="new">
-				BROE2</a>, if you do NOT wish to be raised to a higher status.</li>
-				<li>Any other requests should go in the Comments field. <br></li>
-				</ul>
-			</li>
-			<li><span class="smallTitle">Payment</span>
-				<ul>
-				<li>Entry fees as above. There are no charges for coxswains.</li> 
-				<li>All entry fees must be paid using <a href="https://broe2.britishrowing.org/" target="new">
-				BROE2</a></li>
-			<li><a href="javascript:popUp('email-form.php?contact=1')">ENTRIES SECRETARY</a>: +44 (0) 7771 774717<br></li>
-			<li><strong>TELEPHONE CONFIRMATIONS</strong> may be made on +44 (0) 7771 774717</li>
-			<li>In the unlikely event of late regatta cancellation, one entry fee per competitor will be retained to cover costs.</li>
-		</ul>
-		<p><strong>Entries must be completed by 10am Monday 7th July 2025.</strong></p>        
+		</table>        
 	</div>    
+	<ul>
+		<li>Entry fee, &pound;20 per rowing seat, except <a href="/sprint-eights/">Platinum Jubilee Sprint Eights</a>.</li>
+		<li>Entries will be accepted, providing there are a sufficient crews entered and sufficient time in the racing programme. </li>
+		<li>If an event is over-subscribed, crews that have been entered will be put into the next appropriate status or age-group, unless a comment has been made with the entry in <a href="https://broe2.britishrowing.org/" target="new">BROE2</a>.</li>
+		<li>Priority will be given to complete entries with full payment.</li>
+		<li><span class="smallTitle">BROE2 Entry</span>
+			<ul>
+			<li>Indicate in <a href="https://broe2.britishrowing.org/" target="new">
+			BROE2</a>, if you do NOT wish to be raised to a higher status.</li>
+			<li>Any other requests should go in the Comments field. <br></li>
+			</ul>
+		</li>
+		<li><span class="smallTitle">Payment</span>
+			<ul>
+			<li>Entry fees as above. There are no charges for coxswains.</li> 
+			<li>All entry fees must be paid using <a href="https://broe2.britishrowing.org/" target="new">
+			BROE2</a></li>
+		<li><a href="javascript:popUp('email-form.php?contact=1')">ENTRIES SECRETARY</a>: +44 (0) 7771 774717<br></li>
+		<li><strong>TELEPHONE CONFIRMATIONS</strong> may be made on +44 (0) 7771 774717</li>
+		<li>In the unlikely event of late regatta cancellation, one entry fee per competitor will be retained to cover costs.</li>
+	</ul>
+	<p><strong>Entries must be completed by 10am Monday 7th July 2025.</strong></p>
