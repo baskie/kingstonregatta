@@ -2,7 +2,7 @@
 layout: article.njk
 title: Competitors -  Victor Ludorum
 pageTitle: Competitors - Victor Ludorum
-articleTitle: Victor Ludorum
+articleTitle: 
 
 templateEngineOverride: njk,md
 ---

@@ -1,8 +1,8 @@
 ---
 layout: article.njk
 title: Competitors - Circulation on the Water
-pageTitle: Competitors - Circulation on the Water
-articleTitle: Circulation Pattern on the Water
+pageTitle: Competitors - Circulation
+articleTitle: Circulation on the Water
 
 templateEngineOverride: njk,md
 ---

@@ -2,7 +2,7 @@
 layout: article.njk
 title: Recreational Events
 pageTitle: Competitors - Recreational Events
-articleTitle: Recreational Rowing Events
+articleTitle: 
 
 templateEngineOverride: njk,md
 ---

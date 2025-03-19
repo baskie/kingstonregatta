@@ -2,7 +2,7 @@
 layout: article.njk
 title: Competitors - Safeguarding
 pageTitle: Competitors - Safeguarding
-articleTitle: Safeguarding
+articleTitle: 
 
 templateEngineOverride: njk,md
 ---

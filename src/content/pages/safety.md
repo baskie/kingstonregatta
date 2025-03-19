@@ -2,7 +2,7 @@
 layout: article.njk
 title: Regatta Safety
 pageTitle: Competitors - Safety
-articleTitle: Regatta Safety
+articleTitle: 
 
 templateEngineOverride: njk,md
 ---
