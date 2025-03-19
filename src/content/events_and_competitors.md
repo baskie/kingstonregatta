@@ -30,7 +30,6 @@ templateEngineOverride: njk,md
 			<p class="compact">Senior racing in Event Bands</p>
 			<br/>
 		</div>    
-
 		<table class="redgrid" width="100%" cellspacing="0" cellpadding="6">
 			<tr>
 				<td width="11.1%">&nbsp;</td>
