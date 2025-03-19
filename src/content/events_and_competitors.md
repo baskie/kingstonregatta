@@ -26,12 +26,6 @@ templateEngineOverride: njk,md
 <div class="stronger">
 <p class="compact">Separate Open and Women's events for J18, J16, J15 and Mas classes</p>
 <p class="compact">Senior racing in Event Bands</p>
-<p class="compact">Recreational rowing events are open to those not training for open BR competition</p>
-<p class="compact">The Recreational Novice 4x+ event is open to competitors who started rowing after 1st January 2023</p>
-<p class="compact">Mixed crews must include at least two women (excluding the cox)</p>
-<p class="compact">Recreational events (all for mixed crews) can only be raced in Touring/Stable boats,
-racing shells are prohibited.</p>
-<p class="compact">The races will be over 1,000 metres, with no repechages.</p>
 <br/>
 
 </div>        
