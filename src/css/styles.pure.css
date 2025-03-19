@@ -624,8 +624,6 @@ body {
     font-size: 3.2em;
     font-weight: 300;
     text-align: left;
-    padding-left: 55px;
-    max-width: 75%;
 }
 .header h2 {
     font-weight: 300;
@@ -705,6 +703,10 @@ body {
         padding-left: 2em;
         padding-right: 2em;
     }
+    .header h1{
+        padding-left: 35px;
+        padding-right: 35px;
+    }
     #layout {
         padding-left: 200px;
         left: 0;
@@ -729,6 +731,8 @@ body {
     .header h1 {
         font-size: 2.5em;
         max-width: 100%;
+        padding-left: 5px;
+        padding-right: 5px;
     }
 }
 @media (max-width: 48em) and (orientation: portrait) {
@@ -737,8 +741,10 @@ body {
         left: 200px;
     }
     .header h1 {
-        font-size: 1.5em;
+        font-size: 1.2em;
         max-width: 100%;
+        padding-left: 5px;
+        padding-right: 5px;
     }
 }
 .increaseFont, .decreaseFont {color:#fff; text-decoration:none; background-color:#757575 ;padding:0.3em}
