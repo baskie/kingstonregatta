@@ -11,7 +11,7 @@ templateEngineOverride: njk,md
 <!--test-->
 <p> Kingston Regatta has been contested on the river at Kingston upon Thames since 1857 and the Committee and Sponsors are pleased to continue this superb tradition</p>
 <div style="position:relative;">
-<h2>12 &amp; 13 July 2025</h2>
+<h2>Saturday 12 &amp; Sunday 13 July 2025</h2>
 <h2>320 races from 8.30 am to 6.30 pm each day</h2>
 </div>
 <h3><a href="/results">Results from previous years</a></h3>		
