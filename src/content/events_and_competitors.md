@@ -20,13 +20,13 @@ templateEngineOverride: njk,md
     	<p class="stronger">Entries must be received by 10am Monday 7th July 2025.</p>
     	<h2>Kingston Amateur Regatta - Saturday 12 July 2025</h2>
     	<div>
-			<p  class="compact">Divisions 1 & 2 - 1000m downstream from stake boats, 3 abreast</p>
+			<p  class="compact">Divisions 1 & 2, 1000m downstream<br>from stake boats, 3 abreast</p>
     		<p  class="compact">Sprints - 350m from a free start, 2 abreast</p>
     		<p  class="compact">No doubling in a division</p>
     	</div>
 		<br/>
 		<div class="stronger">
-			<p class="compact">Separate Open and Women's events for J18, J16, J15 and Mas classes</p>
+			<p class="compact">Separate Open and Women's events for<br>J18, J16, J15 and Mas classes</p>
 			<p class="compact">Senior racing in Event Bands</p>
 			<br/>
 		</div>    
@@ -188,8 +188,9 @@ templateEngineOverride: njk,md
 		</table>
 		<br/>
 		<h2>Kingston Borough Regatta - Sunday 13 July 2025</h2>
-		<p>500m racing downstream from a free start<br>No doubling in a division</p>
-		<p>All J15 events and J14 4x+ & 8x+ 3 abreast<br>All other events 2 abreast</p>
+		<p class="compact">500m racing downstream from a free start<br>No doubling in a division</p>
+		<p class="compact">All J15 events and J14 4x+ & 8x+ 3 abreast<br>All other events 2 abreast</p>
+		<br/>
 		<table class="redgrid" width="100%" cellspacing="0" cellpadding="6">
 			<tr>
 				<td>&nbsp;</td>
