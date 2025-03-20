@@ -700,12 +700,10 @@ body {
 @media (min-width: 48em) {
     .content,
     .header {
-        padding-left: 2em;
-        padding-right: 2em;
+        padding: 0 35px;
     }
     .header h1{
-        padding-left: 35px;
-        padding-right: 35px;
+        padding: 0 35px;
     }
     #layout {
         padding-left: 200px;
