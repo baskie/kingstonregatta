@@ -1,31 +1,31 @@
 body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 0.9em;
+    font-size: 0.9rem;
     font-weight: 400;
     margin: 0;
 }
 h1 {
     <!--font-family: "Times New Roman", Times, serif;-->
     font-weight: 400;
-    font-size: 1.8em;
+    font-size: 1.6rem;
     color: #353535;
 }
 h2 {
     font-weight: 500;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     color: #353535;
 }
 h3 {
-    font-size: 1.5em;
+    font-size: 1.5rem;
     font-weight: 500;
     color: #353535;
 }
 h4 {
-    font-size: 1.4em;
+    font-size: 1.4rem;
     color: #353535;
 }
 h5 {
-    font-size: 1.2em;
+    font-size: 1.2rem;
     color: #353535;
 }
 
@@ -36,7 +36,7 @@ html {
   }
 
 li {
-    margin-left: -0.7em;
+    margin-left: -0.7rem;
 }
 
 p.compact {
@@ -103,7 +103,7 @@ p.compact {
     float: right;
 }
 .smallTitle {
-    font-size: 1.1em;
+    font-size: 1.1rem;
     font-weight: 700;
 }
 table.redgrid {
@@ -698,12 +698,16 @@ body {
     margin-top: 0.6em;
 }
 @media (min-width: 48em) {
+    html{
+        font-size: 14px;
+    }
     .content,
     .header {
         padding: 0 35px;
     }
     .header h1{
         padding: 0 35px;
+        font-size: 3.2rem;
     }
     #layout {
         padding-left: 200px;
@@ -722,24 +726,29 @@ body {
     }
 }
 @media (max-width: 48em) and (orientation: landscape) {
+    html{
+        font-size: 12px;
+    }
     #layout.active {
         position: relative;
         left: 200px;
     }
     .header h1 {
-        font-size: 2.5em;
         max-width: 100%;
         padding-left: 5px;
         padding-right: 5px;
     }
 }
 @media (max-width: 48em) and (orientation: portrait) {
+    html{
+        font-size: 12px;
+    }
     #layout.active {
         position: relative;
         left: 200px;
     }
     .header h1 {
-        font-size: 1.2em;
+        font-size: 2rem;
         max-width: 100%;
         padding-left: 5px;
         padding-right: 5px;
