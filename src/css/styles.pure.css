@@ -728,7 +728,7 @@ body {
 }
 @media (max-width: 48em) and (orientation: landscape) {
     html{
-        font-size: 12px;
+        font-size: 14px;
     }
     #layout.active {
         position: relative;
@@ -742,7 +742,7 @@ body {
 }
 @media (max-width: 48em) and (orientation: portrait) {
     html{
-        font-size: 12px;
+        font-size: 14px;
     }
     #layout.active {
         position: relative;
