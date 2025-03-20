@@ -5,7 +5,7 @@ pageTitle: Kingston Regatta 2025
 templateEngineOverride: njk,md
 ---
 <div id="nav" style="display:none">1</div>
-<div class="centered">
+<div>
   <p> Kingston Regatta has been contested on the river at Kingston upon Thames since 1857<br>
       and the Committee and Sponsors are pleased to continue this superb tradition</p>
   <div style="position:relative;">
@@ -14,10 +14,10 @@ templateEngineOverride: njk,md
   </div>
   <h3><a href="/results">Results from previous years</a></h3>		
   <div class="krcbox" >
-    <p>Kingston Regatta has long been run from Kingston Rowing Club.</p>
+    <p>Kingston Regatta has long been run from Kingston Rowing Club</p>
     <a href="https://www.kingstonrc.co.uk"><img src="images/logos/KRC_Shield_Red_m.png" alt="KRC Logo" style="float:left; padding-right:10px;width:90px;"></a>
-    <p>For information on rowing in Kingston,<br>
-       Kingston Eights Head and Kingston Small Boats Head,<br>
+    <p>For information on rowing in Kingston,
+       Kingston Eights Head and Kingston Small Boats Head,
        visit the <a href="https://www.kingstonrc.co.uk">Kingston&nbsp;Rowing&nbsp;Club&nbsp;website</a>
     </p>
   </div>
