@@ -23,6 +23,6 @@ jobs:
       with:
         server: ftp.kingstonregatta.co.uk
         local-dir: ./public/ 
-        server-dir: /newsite.kingstonregatta.co.uk/public_html
+        server-dir: /newsite.kingstonregatta.co.uk/public_html/
         username: kingstonregatta@kingstonregatta.co.uk
         password: ${{ secrets.KAR_FTP_PWD }}
