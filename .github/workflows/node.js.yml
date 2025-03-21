@@ -21,8 +21,8 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        server: ftp.bascombe.net
+        server: ftp.kingstonregatta.co.uk
         local-dir: ./public/ 
-        server-dir: /
-        username: kartest@bascombe.net
-        password: ${{ secrets.KAR_TEST_PWD }}
+        server-dir: /newsite.kingstonregatta.co.uk/public_html
+        username: kingstonregatta@kingstonregatta.co.uk
+        password: ${{ secrets.KAR_FTP_PWD }}
