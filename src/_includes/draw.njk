@@ -1,58 +1,29 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="viewport" content="width=device-width, initial-scale=0.5">
- <title>{{ title }}</title>
-<style>
-.drawButton {
-
-	background-color:#9b2321;
-	border:1px solid #9b2321;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:20px;
-	font-weight:bold;
-	padding:9px 23px;
-	text-decoration:none;
-
-}
-.drawButton:hover {
-	background-color:#777777;
-}
-.drawButton:active {
-	position:relative;
-	top:1px;
-}
-</style>
-
-<!--<script type="text/javascript">
-
-function go(val){
-  var iframe = document.getElementById("drawIframe");
-  if (val=='hide'){
-    document.getElementById("hideButton").style.display = "none";
-    document.getElementById("showButton").style.display = "inline";
-      iframe.src = "https://www.kingstonregatta.co.uk/results/regatta.php?id=24008&day=1";
-  }
-  if (val=='show'){
-    document.getElementById("showButton").style.display = "none";
-    document.getElementById("hideButton").style.display = "inline";
-      iframe.src = "https://www.kingstonregatta.co.uk/results/regatta.php?id=24008&f=1&b=1&day=1";
-  }
- 
-}
-</script>-->
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" type="image/x-icon" href="/images/favicon.png">
 </head>
-<body style="margin:0px;padding:0px;overflow:hidden">
-	
-	<div id="header" class="left">
-		<a href="/" class="drawButton">Home</a>
-    <!--<button id="showButton" onClick="go('show')" class="drawButton" style="display: none">Show Blades</button>
-    <button id="hideButton" onClick="go('hide')" class="drawButton" >Hide Blades</button>-->
-	</div>
-   {{ content | safe }}
+<body>
+<div id="layout">
+  <div id="main">
+    <div id=head class="header" style="padding-left: 0px; padding-right: 0px;" >
+      <div  id="welcomeimg" >
+        <img src="../images/banner.jpg" alt="banner" class="banner">
+        <img src="../images/logos/karcrest.png" alt="crest" class="crest">
+      </div>
+      <h1>{{ pageTitle }}</h1>
+    </div>
+    {% include "navmenu.njk" %}
+    <div>
+      {{ content | safe }}
+    </div>
+  </div>
+</div>
+<script src="/scripts/ui.js"></script>
 </body>
 </html>
