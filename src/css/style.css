@@ -139,7 +139,7 @@ body {margin:0;font-family:Arial}
   display: block;
 }
 
-
+/* e.g. phone landscape */
 @media screen and (min-width: 480px) {
 	.topnav a {	padding-left: 4px;
 				padding-right: 4px;
@@ -165,9 +165,9 @@ body {margin:0;font-family:Arial}
 
     }
 }
+/* ********** */
 
-
-
+/* e.g. phone portrait */
 @media screen and (max-width: 480px) {
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
@@ -180,7 +180,6 @@ body {margin:0;font-family:Arial}
   .topnav a {	padding: 12px 14px;
     font-size:medium;}
 }
-
 
 @media screen and (max-width: 480px) {
   .topnav.responsive {position: relative;}
@@ -202,6 +201,8 @@ body {margin:0;font-family:Arial}
     text-align: left;
   }
 }
+/* ********** */
+
 /* MENU NAVIGATION END */
 
 .mediumBox {
