@@ -4,8 +4,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=0.5">
  <title>{{ title }}</title>
 <style>
-
-
 .drawButton {
 
 	background-color:#9b2321;
@@ -29,32 +27,32 @@
 }
 </style>
 
-<script type="text/javascript">
+<!--<script type="text/javascript">
 
 function go(val){
   var iframe = document.getElementById("drawIframe");
   if (val=='hide'){
     document.getElementById("hideButton").style.display = "none";
     document.getElementById("showButton").style.display = "inline";
-      iframe.src = "https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&day=1";
+      iframe.src = "https://www.kingstonregatta.co.uk/results/regatta.php?id=24008&day=1";
   }
   if (val=='show'){
     document.getElementById("showButton").style.display = "none";
     document.getElementById("hideButton").style.display = "inline";
-      iframe.src = "https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&f=1&b=1&day=1";
+      iframe.src = "https://www.kingstonregatta.co.uk/results/regatta.php?id=24008&f=1&b=1&day=1";
   }
  
 }
-</script>
+</script>-->
 
 </head>
 <body style="margin:0px;padding:0px;overflow:hidden">
 	
 	<div id="header" class="left">
 		<a href="/" class="drawButton">Home</a>
-    <button id="showButton" onClick="go('show')" class="drawButton" style="display: none">Show Blades</button>
-    <button id="hideButton" onClick="go('hide')" class="drawButton" >Hide Blades</button>
+    <!--<button id="showButton" onClick="go('show')" class="drawButton" style="display: none">Show Blades</button>
+    <button id="hideButton" onClick="go('hide')" class="drawButton" >Hide Blades</button>-->
 	</div>
-		<iframe id="drawIframe" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%" src="https://www.kingstonregatta.co.uk/results/regatta.php?id=22008&f=1&b=1&day=1"> </iframe>
+   {{ content | safe }}
 </body>
 </html>
