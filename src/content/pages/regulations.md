@@ -58,7 +58,7 @@ templateEngineOverride: njk,md
       <li>No competitor may represent more than one Club on one day of the Regatta.</li>
       <li>No competitor may race in more than one event within a division; they may race in one event in each division on each day.</li>
       <li>Details of boat sharing <u>must</u> be provided via <a href="https://broe2.britishrowing.org/">BROE2</a>. Where possible, these will be catered for in the first round. Thereafter, although every effort will be made to avoid clashes, it is at the entrants&#8217; risk.</li>
-      <li>Competitors must supply their own boats and blades.</li>
+      <li>Competitors must supply their own boats and blades, except for recreational events where they are provided.</li>
       <li>Coxes are responsible for supplying their own weights if required.</li>
       <li>Boating facilities will be provided on the Middlesex bank, upstream of Kingston Bridge.&nbsp; Parking will be available for boat trailers, and separately for cars.&nbsp; The Regatta  will endeavour to ensure the security of all equipment, but cannot accept responsibility in this respect.&nbsp; All competitors and clubs should insure their property and make their own arrangements for its safety. For SATNAV: key in <b>KT1 4AA</b>.</li>
     </ol>
