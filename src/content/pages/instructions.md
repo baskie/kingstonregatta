@@ -14,16 +14,33 @@ templateEngineOverride: njk,md
           that area and approaches from Sunbury and Esher.</strong> </li>
           <li>Boat trailers and cars with boats on top should be  driven down onto the Barge Walk from the bridge, where 
           Marshals will guide them into the trailer park in the first paddock on the right.</li>
-          <li>The paddocks will be open from 6:30 am on both  Saturday and Sunday until dusk the same day.&nbsp;All 
-          trailers must be removed from the paddocks before 8:30 pm on  Sunday.&nbsp;Trailers may be left from Friday 
+          <li>The paddocks will be open as follows:<br>
+            <table cellspacing="10" cellpadding="6">
+	      <tr>
+		<td>Friday</td>
+		<td>7am until 6.30pm</td>
+	      </tr>
+	      <tr>
+		<td>Saturday</td>
+		<td>7am until dusk</td>
+	      </tr>
+	      <tr>
+		<td>Sunday</td>
+		<td>7am until dusk</td>
+	      </tr>
+	      <tr>
+		<td>Monday</td>
+		<td>7am until 12pm</td>
+	      </tr>
+            </tr>
+          </table><br>
+          Trailers may be left from Friday 
           evening by arrangement. Cars <strong>may not</strong> be  left in the paddock over 
 			Friday or Saturday night, and must 
           be removed each night by 8:30pm.</li>
           <li>There is ample parking available on site for all trailers (in the trailer park), and for competitors&rsquo; 
           vehicles in the car  park.&nbsp;Competitors&rsquo; tickets for the  enclosure can be collected from the Crew 
-          Registration tent. Car park tickets  are supplied with the draw notification, and must be available for inspection 
-          by  the Marshals when you arrive.&nbsp;Additional  competitors&rsquo; cars may use the car park for a 
-			small charge.</li>
+          Registration tent. Car parking is &pound;10.</li>
           <li><strong>Note that neither boats nor cars  will be allowed to remain between the trailer park and the landing 
           stages.&nbsp;Competitors responsible for boats or cars  left in this area will be liable to a penalty. 
           Great care must be taken when carrying boats from the trailer park to the boating area. 
