@@ -28,7 +28,8 @@ templateEngineOverride: njk,md
 		<div class="stronger">
 			<p class="compact">Separate Open and Women's events for<br>J18, J16, J15 and Mas classes</p>
 			<p class="compact">Senior racing in Event Bands</p>
-			<br/>
+            <p class="compact">The regatta also offers events for <a href="/recreational/">recreational rowers</a></p>
+			<br>
 		</div>    
 		<table class="redgrid" width="100%" cellspacing="0" cellpadding="6">
 			<tr>
